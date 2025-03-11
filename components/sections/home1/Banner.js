@@ -55,9 +55,8 @@ export default function Banner() {
                                 <p className="main-slider__sub-title">Service Company</p>
                                 <div className="main-slider__sub-title-shape"></div>
                             </div>
-                            <h2 className="main-slider__title">Bright Solutions <br/> for Dark Problems</h2>
-                            <p className="main-slider__text">We have been operating for over a decade, providing top-notch
-                                sWe have <br/> operating over a decade, providing top-notch services to our clients</p>
+                            <h2 className="main-slider__title">Power Up <br/> Your World</h2>
+                            <p className="main-slider__text">We have been illuminating homes and businesses for over a decade, providing top-tier<br/>electrical solutions and unmatched customer service.</p>
                             <div className="main-slider__btn-box">
                                 <Link href="about" className="main-slider__btn thm-btn">Learn More</Link>
                             </div>
@@ -82,9 +81,8 @@ export default function Banner() {
                                 <p className="main-slider__sub-title">Service Company</p>
                                 <div className="main-slider__sub-title-shape"></div>
                             </div>
-                            <h2 className="main-slider__title">Bright Solutions <br/> for Dark Problems</h2>
-                            <p className="main-slider__text">We have been operating for over a decade, providing top-notch
-                                sWe have <br/> operating over a decade, providing top-notch services to our clients</p>
+                            <h2 className="main-slider__title">Power Up <br/> Your World</h2>
+                            <p className="main-slider__text">We have been illuminating homes and businesses for over a decade, providing top-tier electrical solutions and unmatched customer service.</p>
                             <div className="main-slider__btn-box">
                                 <Link href="about" className="main-slider__btn thm-btn">Learn More</Link>
                             </div>
@@ -109,9 +107,8 @@ export default function Banner() {
                                 <p className="main-slider__sub-title">Service Company</p>
                                 <div className="main-slider__sub-title-shape"></div>
                             </div>
-                            <h2 className="main-slider__title">Bright Solutions <br/> for Dark Problems</h2>
-                            <p className="main-slider__text">We have been operating for over a decade, providing top-notch
-                                sWe have <br/> operating over a decade, providing top-notch services to our clients</p>
+                            <h2 className="main-slider__title">Power Up <br/> Your World</h2>
+                            <p className="main-slider__text">We have been illuminating homes and businesses for over a decade, providing top-tier electrical solutions and unmatched customer service.</p>
                             <div className="main-slider__btn-box">
                                 <Link href="about" className="main-slider__btn thm-btn">Learn More</Link>
                             </div>
