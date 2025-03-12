@@ -889,7 +889,10 @@ ul {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  background-color: #20684A;
+  /* background-color: #20684A; */
+  /* background-color: #6699FF; Lighter Blue */ 
+  background-color: rgba(51, 122, 159, 0.95); /* Solid blue with 50% transparency */
+
   padding: 5px 150px;
 }
 

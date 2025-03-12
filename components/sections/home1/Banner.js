@@ -41,13 +41,13 @@ export default function Banner() {
                 <SwiperSlide>
                 <div className="item">
                     <div className="main-slider__bg"
-                        style={{ backgroundImage: 'url(assets/images/backgrounds/slider1.jpeg)' }} >
+                        style={{ backgroundImage: 'url(assets/images/backgrounds/slider01.jpg)' }} >
                     </div>{/* /.slider-one__bg */}
                     <div className="main-slider__shape-1"></div>
                     <div className="main-slider__shape-2"></div>
                     <div className="main-slider__shape-3"></div>
                     <div className="main-slider__img">
-                        <img src="assets/images/resources/main-slider-img-1-1.png" alt=""/>
+                        {/* <img src="assets/images/resources/main-slider-img-1-1.png" alt=""/> */}
                     </div>
                     <div className="container">
                         <div className="main-slider__content">
@@ -73,7 +73,7 @@ export default function Banner() {
                     <div className="main-slider__shape-2"></div>
                     <div className="main-slider__shape-3"></div>
                     <div className="main-slider__img">
-                        <img src="assets/images/resources/main-slider-img-1-2.png" alt=""/>
+                        {/* <img src="assets/images/resources/main-slider-img-1-2.png" alt=""/> */}
                     </div>
                     <div className="container">
                         <div className="main-slider__content">
@@ -99,7 +99,7 @@ export default function Banner() {
                     <div className="main-slider__shape-2"></div>
                     <div className="main-slider__shape-3"></div>
                     <div className="main-slider__img">
-                        <img src="assets/images/resources/main-slider-img-1-3.png" alt=""/>
+                        {/* <img src="assets/images/resources/main-slider-img-1-3.png" alt=""/> */}
                         {/* main-slider-3 is the image to put */}
                     </div>
                     <div className="container">

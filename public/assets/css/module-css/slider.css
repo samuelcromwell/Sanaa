@@ -24,6 +24,11 @@
     clip-path: polygon(85% 0, 100% 0%, 100% 100%, 0% 100%);
     opacity: .20;
     z-index: -1;
+
+    /* Adjust image zoom */
+    background-size: 150%; /* Increase for zoom out, decrease for zoom in */
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .main-slider__shape-1 {
@@ -52,7 +57,8 @@
     right: 508px;
     height: 750px;
     width: 80px;
-    background-color: rgba(var(--erepair-base-rgb), .50);
+    /* background-color: rgba(var(--erepair-base-rgb), .50); */
+    background-color: rgba(51, 122, 159, 0.95); /* Solid blue with 50% transparency */
     clip-path: polygon(0 10%, 100% 0%, 100% 90%, 0% 100%);
     transform: rotate(51deg) translateY(-200px);
     opacity: 0;
