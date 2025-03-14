@@ -47,7 +47,7 @@ export default function Banner() {
                     <div className="main-slider__shape-2"></div>
                     <div className="main-slider__shape-3"></div>
                     <div className="main-slider__img">
-                        {/* <img src="assets/images/resources/main-slider-img-1-1.png" alt=""/> */}
+                        {/* <img src="assets/images/resources/main-slider-3.jpeg" alt=""/> */}
                     </div>
                     <div className="container">
                         <div className="main-slider__content">
