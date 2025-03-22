@@ -149,7 +149,7 @@ export default function Home() {
                                         <div className="icon">
                                             <span className="icon-envelope"></span>
                                         </div>
-                                        <p><Link href="mailto:example@gmail.com">example@gmail.com</Link></p>
+                                        <p><Link href="mailto:sanaaelectricals@gmail.com">sanaaelectricals@gmail.com</Link></p>
                                     </li>
                                     <li>
                                         <div className="icon">

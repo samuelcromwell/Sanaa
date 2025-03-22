@@ -16,7 +16,7 @@ export default function About() {
                                 <div className="col-xl-6">
                                     <div className="about-one__img-box-1">
                                         <div className="about-one__img-1">
-                                            <img src="assets/images/resources/about-one-img-1.jpg" alt=""/>
+                                            <img src="assets/images/resources/meter-box.jpeg" alt=""/>
                                         </div>
                                     </div>
                                 </div>
@@ -25,11 +25,11 @@ export default function About() {
                                         <div className="icon">
                                             <span className="icon-certified"></span>
                                         </div>
-                                        <h3>We are certified<br/> company since 1997</h3>
+                                        <h3>We are certified<br/> electrical shop</h3>
                                     </div>
                                     <div className="about-one__img-box-2">
                                         <div className="about-one__img-2">
-                                            <img src="assets/images/resources/about-one-img-2.jpg" alt=""/>
+                                            <img src="assets/images/resources/fundi.jpeg" alt=""/>
                                         </div>
                                     </div>
                                 </div>
@@ -43,22 +43,12 @@ export default function About() {
                                     <span className="section-title__tagline">Get To Know Us</span>
                                 </div>
                                 <div className="section-title__title-box sec-title-animation animation-style2">
-                                    <h2 className="section-title__title title-animation">General Auto Repair & Car This
-                                        Maintenance
-                                        Place
+                                    <h2 className="section-title__title title-animation">Your Trusted Electrical Partner in Mtwapa
                                     </h2>
                                 </div>
                             </div>
-                            <p className="about-one__text-1">The wise
-                                man therefore always holds in these
-                                matters to this
-                                principle of selection. He rejects pleasures to secure other greater pleasures, or else
-                                he endures pains to avoid worse pains to the selection point. But in certain
-                                circumstances</p>
-                            <p className="about-one__text-2">Duis acute arura dolor in reprehenderit in voluptate velit esse
-                                cillum dolore Velit esse quam nihil molestiae consequatur, Velia ease chillum dolore eu
-                                fugato nullar partiture. Exception sint occaecatvel qui dolorem eum fugiat quo quail
-                                dolor sit amen, consectetur, </p>
+                            <p className="about-one__text-1">At Sanaa Electricals, we are committed to providing the highest-quality electrical solutions for homes, businesses, and industries in Mtwapa. With a team of experienced electricians and a vast selection of electrical products, we aim to meet your needs with precision, reliability, and excellent customer service</p>
+                            <p className="about-one__text-2">Whether you need to purchase electrical supplies, have a new system installed, or require maintenance and repairs, we’ve got you covered. </p>
                             <div className="about-one__btn-box">
                                 <Link href="about" className="about-one__btn thm-btn">About Us More</Link>
                             </div>

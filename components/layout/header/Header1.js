@@ -15,7 +15,7 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu }) {
                                 <i className="icon-envelope"></i>
                             </div>
                             <div className="text">
-                                <p><Link href="mailto:example@gamil.com">example@gamil.com</Link>
+                                <p><Link href="mailto:sanaaelectricals@gmail.com">sanaaelectricals@gmail.com</Link>
                                 </p>
                             </div>
                         </li>
@@ -24,7 +24,7 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu }) {
                                 <i className="icon-location"></i>
                             </div>
                             <div className="text">
-                                <p>12 Green Road, 05 New York</p>
+                                <p>Mtwapa</p>
                             </div>
                         </li>
                     </ul>
@@ -80,15 +80,15 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu }) {
                             </div>
                         </div>
                         <div className="main-menu__right">
-                            <div className="main-menu__search-and-btn-box">
-                                <div className="main-menu__search-box">
+                            {/* <div className="main-menu__search-and-btn-box"> */}
+                                {/* <div className="main-menu__search-box">
                                     <Link href="#"
                                         className="main-menu__search search-toggler icon-search-interface-symbol" onClick={handlePopup}></Link>
-                                </div>
+                                </div> */}
                                 <div className="main-menu__btn-box">
                                     <Link href="contact" className="main-menu__btn thm-btn">Get a quote</Link>
                                 </div>
-                            </div>
+                            {/* </div> */}
                         </div>
                     </div>
                 </div>

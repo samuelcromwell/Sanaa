@@ -9,15 +9,15 @@ export default function Menu() {
         <>
 
             <ul className="main-menu__list">
-                <li className="dropdown">
+                <li>
                     <Link href="/">Home </Link>
-                    <ul>
+                    {/* <ul>
                         <li><Link href="/">Home One</Link></li>
                         <li><Link href="index2">Home Two</Link></li>
                         <li><Link href="index3">Home Three</Link></li>
                         <li><Link href="index-dark">Home Dark</Link></li>
                         
-                    </ul>
+                    </ul> */}
                 </li>
                 <li>
                     <Link href="about">About Us</Link>

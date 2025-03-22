@@ -29,7 +29,7 @@ export default function Home() {
                                 snit occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
                                 est laborum.</p>
                             <div className="project-details__text-and-img">
-                                <p className="project-details__text-3">The wise man therefore always holds in these matters
+                                <p className="project-details__text-3">We maintain a competitive pricing strategy, ensuring these matters
                                     to this principle of selection. He rejects pleasures to secure other greater
                                     pleasures, or else he endures pains to avoid worse pains to the selection point. But
                                     in certain to all this circumstances</p>
@@ -115,7 +115,7 @@ export default function Home() {
                                         <div className="icon">
                                             <span className="icon-envelope"></span>
                                         </div>
-                                        <p><Link href="mailto:example@gmail.com">example@gmail.com</Link></p>
+                                        <p><Link href="mailto:sanaaelectricals@gmail.com">sanaaelectricals@gmail.com</Link></p>
                                     </li>
                                     <li>
                                         <div className="icon">

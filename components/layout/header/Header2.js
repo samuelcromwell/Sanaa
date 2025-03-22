@@ -26,7 +26,7 @@ export default function Header2({ scroll, handleMobileMenu }) {
                                     <i className="icon-location"></i>
                                 </div>
                                 <div className="text">
-                                    <p>12 Green Road, 05 New York</p>
+                                    <p>Mtwapa</p>
                                 </div>
                             </li>
                             <li>
@@ -34,7 +34,7 @@ export default function Header2({ scroll, handleMobileMenu }) {
                                     <i className="icon-envelope"></i>
                                 </div>
                                 <div className="text">
-                                    <p><Link href="mailto:info@fonisa24.com">example@gamil.com</Link>
+                                    <p><Link href="mailto:info@fonisa24.com">sanaaelectricals@gmail.com</Link>
                                     </p>
                                 </div>
                             </li>

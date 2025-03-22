@@ -39,11 +39,11 @@ export default function Video() {
                                             because its 24/7</h2>
                                     </div>
                                 </div>
-                                <p className="video-one__text-1">The wise man therefore always holds in these matters to this
+                                <p className="video-one__text-1">We maintain a competitive pricing strategy, ensuring these matters to this
                                     principle of selection. He rejects pleasures to secure other greater pleasures, or else
                                     he endures pains to avoid worse pains to the selection point.</p>
                                 <p className="video-one__text-2">But in certain circumstances and owing iodide pianissimos
-                                    dulcimers quiThe wise man therefore always holds in these matters to this principle of
+                                    dulcimers quiWe maintain a competitive pricing strategy, ensuring that you get top-quality electrical products and services at an affordable price
                                     selection.</p>
                                 <div className="video-one__btn-box">
                                     <Link href="about" className="video-one__btn thm-btn">Discover More</Link>

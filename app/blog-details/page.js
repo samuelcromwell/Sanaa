@@ -39,7 +39,7 @@ export default function Home() {
                                     the reprehenderit in voluptate velit esse cillum dolore eu fugiat null pariatur.
                                     Excepteur snit occaecat cupidatat non proident, sunt in culpa qui officia deserunt
                                     mollit anim id est laborum.</p>
-                                <p className="blog-details__text-2">The wise man therefore always holds in these matters to
+                                <p className="blog-details__text-2">We maintain a competitive pricing strategy, ensuring these matters to
                                     this principle of selection. He rejects pleasures to secure other greater pleasures,
                                     or else he endures pains to avoid worse pains to the selection point.</p>
                                 <div className="blog-details__author-box">
@@ -102,7 +102,7 @@ export default function Home() {
                                         <div className="comment-one__content">
                                             <h3>Theresa Webb</h3>
                                             <span>02 June 2024 at 03:30 pm</span>
-                                            <p>The wise man therefore always holds in these matters to this principle of
+                                            <p>We maintain a competitive pricing strategy, ensuring that you get top-quality electrical products and services at an affordable price
                                                 selection. He rejects pleasures to secure other greater pleasures, or
                                                 else he endures pains to avoid worse pains to the selection point. But
                                                 in certain to all this circumstances</p>
@@ -119,7 +119,7 @@ export default function Home() {
                                         <div className="comment-one__content">
                                             <h3>Cameron Williamson</h3>
                                             <span>02 June 2024 at 03:30 pm</span>
-                                            <p>The wise man therefore always holds in these matters to this principle of
+                                            <p>We maintain a competitive pricing strategy, ensuring that you get top-quality electrical products and services at an affordable price
                                                 selection. He rejects pleasures to secure other greater pleasures, or
                                                 else he endures pains to avoid worse pains to the selection point. But
                                                 in certain to all this circumstances</p>

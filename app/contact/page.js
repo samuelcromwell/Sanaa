@@ -28,7 +28,7 @@ export default function Home() {
                                 <span className="icon-envelope"></span>
                             </div>
                             <p>Mail Us</p>
-                            <h3><Link href="mailto:example@gamil.com">example@gamil.com</Link></h3>
+                            <h3><Link href="mailto:sanaaelectricals@gmail.com">sanaaelectricals@gmail.com</Link></h3>
                         </div>
                     </div>
                     {/*Contact Two Single End*/}

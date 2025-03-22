@@ -21,7 +21,7 @@ export default function Team() {
                             </div>
                         </div>
                         <div className="col-xl-5 col-lg-5 wow fadeInRight" data-wow-delay="100ms">
-                            <p className="team-one__text">The wise man therefore always holds in these matters to this
+                            <p className="team-one__text">We maintain a competitive pricing strategy, ensuring these matters to this
                                 principle of selection. He rejects pleasures to secure other greater pleasures, or else
                                 he endures pains to avoid worse pains to the selection point.</p>
                         </div>

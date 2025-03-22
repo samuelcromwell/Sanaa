@@ -73,7 +73,7 @@ export default function Testimonial() {
                                 <h3><Link href="testimonials">Mitchel Satnar</Link></h3>
                                 <p>Manager</p>
                             </div>
-                            <p className="testimonial-two__text">The wise man therefore always holds in these design matters
+                            <p className="testimonial-two__text">We maintain a competitive pricing strategy, ensuring these design matters
                                 to this principle of selection. He rejects pleasures to secure others designers greater
                                 pleasures, or else he endures pains to avoid
                                 worse pains to the selection point.</p>
@@ -102,7 +102,7 @@ export default function Testimonial() {
                                 <h3><Link href="testimonials">Tom latham</Link></h3>
                                 <p>Manager</p>
                             </div>
-                            <p className="testimonial-two__text">The wise man therefore always holds in these design matters
+                            <p className="testimonial-two__text">We maintain a competitive pricing strategy, ensuring these design matters
                                 to this principle of selection. He rejects pleasures to secure others designers greater
                                 pleasures, or else he endures pains to avoid
                                 worse pains to the selection point.</p>
@@ -131,7 +131,7 @@ export default function Testimonial() {
                                 <h3><Link href="testimonials">Alisha Martin</Link></h3>
                                 <p>Manager</p>
                             </div>
-                            <p className="testimonial-two__text">The wise man therefore always holds in these design matters
+                            <p className="testimonial-two__text">We maintain a competitive pricing strategy, ensuring these design matters
                                 to this principle of selection. He rejects pleasures to secure others designers greater
                                 pleasures, or else he endures pains to avoid
                                 worse pains to the selection point.</p>
