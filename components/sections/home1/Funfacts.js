@@ -15,7 +15,7 @@ export default function Funfacts() {
                                     <span className="icon-hands-on-experience"></span>
                                 </div>
                                 <div className="counter-one__count-box">
-                                    <CounterUp end={20} />
+                                    <CounterUp end={3} />
                                     <span>+</span>
                                 </div>
                                 <p className="counter-one__text">Years of experience</p>
@@ -29,10 +29,10 @@ export default function Funfacts() {
                                     <span className="icon-technician-1"></span>
                                 </div>
                                 <div className="counter-one__count-box">
-                                <CounterUp end={360} />
+                                <CounterUp end={10} />
                                     <span>+</span>
                                 </div>
-                                <p className="counter-one__text">Expert Team Member</p>
+                                <p className="counter-one__text">Expert Team Members</p>
                             </div>
                         </div>
                         {/*Counter One Single End*/}
@@ -43,10 +43,10 @@ export default function Funfacts() {
                                     <span className="icon-project-complete"></span>
                                 </div>
                                 <div className="counter-one__count-box">
-                                <CounterUp end={800} />
+                                <CounterUp end={300} />
                                     <span>+</span>
                                 </div>
-                                <p className="counter-one__text">Project Completed</p>
+                                <p className="counter-one__text">Projects Completed</p>
                             </div>
                         </div>
                         {/*Counter One Single End*/}
@@ -57,10 +57,10 @@ export default function Funfacts() {
                                     <span className="icon-happy-customer"></span>
                                 </div>
                                 <div className="counter-one__count-box">
-                                <CounterUp end={760} />
+                                <CounterUp end={500} />
                                     <span>+</span>
                                 </div>
-                                <p className="counter-one__text">Happy customer</p>
+                                <p className="counter-one__text">Happy customers</p>
                             </div>
                         </div>
                         {/*Counter One Single End*/}

@@ -32,19 +32,20 @@ export default function Video() {
                             <div className="video-one__right wow fadeInRight" data-wow-delay="300ms">
                                 <div className="section-title text-left">
                                     <div className="section-title__tagline-box">
-                                        <span className="section-title__tagline">contact with us</span>
+                                        <span className="section-title__tagline">why choose us</span>
                                     </div>
                                     <div className="section-title__title-box sec-title-animation animation-style2">
-                                        <h2 className="section-title__title title-animation">Choose Our Electric Repair Service
-                                            because its 24/7</h2>
+                                        <h2 className="section-title__title title-animation">Choose Our Trusted and Reliable Electric
+                                             Repair Sales & Services
+                                        </h2>
                                     </div>
                                 </div>
-                                <p className="video-one__text-1">We maintain a competitive pricing strategy, ensuring these matters to this
-                                    principle of selection. He rejects pleasures to secure other greater pleasures, or else
-                                    he endures pains to avoid worse pains to the selection point.</p>
-                                <p className="video-one__text-2">But in certain circumstances and owing iodide pianissimos
-                                    dulcimers quiWe maintain a competitive pricing strategy, ensuring that you get top-quality electrical products and services at an affordable price
-                                    selection.</p>
+                                <p className="video-one__text-1">
+                                    We maintain a competitive pricing strategy, ensuring that you receive high-quality electrical products and services at an affordable price. Our goal is to offer the best value for your investment while adhering to this principle of selection.
+                                </p>
+                                <p className="video-one__text-2">
+                                    In certain situations, we make strategic decisions to provide greater benefits in the long run, ensuring that our customers always get the most value without compromising on quality or service.
+                                </p>
                                 <div className="video-one__btn-box">
                                     <Link href="about" className="video-one__btn thm-btn">Discover More</Link>
                                     <Link href="contact" className="video-one__btn-two thm-btn">Free estimate</Link>

@@ -5,11 +5,11 @@ import Funfacts from "@/components/sections/home1/Funfacts"
 import Service from "@/components/sections/home1/Service"
 import Servicetwo from "@/components/sections/home1/Servicetwo"
 import Video from "@/components/sections/home1/video"
-import Brand from "@/components/sections/home1/Brand"
+// import Brand from "@/components/sections/home1/Brand"
 import Blog from "@/components/sections/home1/Blog"
-import Testimonial from "@/components/sections/home1/Testimonial"
+// import Testimonial from "@/components/sections/home1/Testimonial"
 import Cta from "@/components/sections/home1/Cta"
-import Pricing from "@/components/sections/home1/Pricing"
+// import Pricing from "@/components/sections/home1/Pricing"
 import Project from "@/components/sections/home1/Project"
 
 export default function Home() {
@@ -21,12 +21,12 @@ export default function Home() {
                 <Service />
                 <About />
                 <Servicetwo />
-                <Testimonial />
-                <Brand />
+                {/* <Testimonial /> */}
+                {/* <Brand /> */}
                 <Video/>
                 <Funfacts />
                 <Project />
-                <Pricing />
+                {/* <Pricing /> */}
                 <Blog />
                 <Cta />
             </Layout>
