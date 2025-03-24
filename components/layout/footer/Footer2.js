@@ -85,7 +85,7 @@ export default function Footer2() {
                                     </div>
                                 </form>
                                 <div className="site-footer-two__social">
-                                    <Link href="#"><i className="icon-facebook"></i></Link>
+                                    <Link href="https://www.facebook.com/SanaaElectricals"><i className="icon-facebook"></i></Link>
                                     <Link href="#"><i className="icon-xpa"></i></Link>
                                     <Link href="#"><i className="icon-link-in"></i></Link>
                                     <Link href="#"><i className="icon-instagram"></i></Link>

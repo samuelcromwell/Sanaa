@@ -22,7 +22,7 @@ export default function Home() {
                                             <h3 className="team-one__title"><Link href="team-details">Wade Warren</Link></h3>
                                             <p className="team-one__sub-title">Electrician</p>
                                             <div className="team-one__social">
-                                                <Link href="#"><span className="icon-facebook"></span></Link>
+                                                <Link href="https://www.facebook.com/SanaaElectricals"><span className="icon-facebook"></span></Link>
                                                 <Link href="#"><span className="icon-xpa"></span></Link>
                                                 <Link href="#"><span className="icon-link-in"></span></Link>
                                                 <Link href="#"><span className="icon-instagram"></span></Link>
@@ -43,7 +43,7 @@ export default function Home() {
                                             <h3 className="team-one__title"><Link href="team-details">Darrell Steward</Link></h3>
                                             <p className="team-one__sub-title">Marketing Manager</p>
                                             <div className="team-one__social">
-                                                <Link href="#"><span className="icon-facebook"></span></Link>
+                                                <Link href="https://www.facebook.com/SanaaElectricals"><span className="icon-facebook"></span></Link>
                                                 <Link href="#"><span className="icon-xpa"></span></Link>
                                                 <Link href="#"><span className="icon-link-in"></span></Link>
                                                 <Link href="#"><span className="icon-instagram"></span></Link>
@@ -64,7 +64,7 @@ export default function Home() {
                                             <h3 className="team-one__title"><Link href="team-details">Warren Wade </Link></h3>
                                             <p className="team-one__sub-title">Co-founder</p>
                                             <div className="team-one__social">
-                                                <Link href="#"><span className="icon-facebook"></span></Link>
+                                                <Link href="https://www.facebook.com/SanaaElectricals"><span className="icon-facebook"></span></Link>
                                                 <Link href="#"><span className="icon-xpa"></span></Link>
                                                 <Link href="#"><span className="icon-link-in"></span></Link>
                                                 <Link href="#"><span className="icon-instagram"></span></Link>
@@ -85,7 +85,7 @@ export default function Home() {
                                             <h3 className="team-one__title"><Link href="team-details">Wade Barent</Link></h3>
                                             <p className="team-one__sub-title">Electrician</p>
                                             <div className="team-one__social">
-                                                <Link href="#"><span className="icon-facebook"></span></Link>
+                                                <Link href="https://www.facebook.com/SanaaElectricals"><span className="icon-facebook"></span></Link>
                                                 <Link href="#"><span className="icon-xpa"></span></Link>
                                                 <Link href="#"><span className="icon-link-in"></span></Link>
                                                 <Link href="#"><span className="icon-instagram"></span></Link>
@@ -106,7 +106,7 @@ export default function Home() {
                                             <h3 className="team-one__title"><Link href="team-details">Darrell Mitchel</Link></h3>
                                             <p className="team-one__sub-title">Marketing Manager</p>
                                             <div className="team-one__social">
-                                                <Link href="#"><span className="icon-facebook"></span></Link>
+                                                <Link href="https://www.facebook.com/SanaaElectricals"><span className="icon-facebook"></span></Link>
                                                 <Link href="#"><span className="icon-xpa"></span></Link>
                                                 <Link href="#"><span className="icon-link-in"></span></Link>
                                                 <Link href="#"><span className="icon-instagram"></span></Link>
@@ -127,7 +127,7 @@ export default function Home() {
                                             <h3 className="team-one__title"><Link href="team-details">Mathe Wade </Link></h3>
                                             <p className="team-one__sub-title">Co-founder</p>
                                             <div className="team-one__social">
-                                                <Link href="#"><span className="icon-facebook"></span></Link>
+                                                <Link href="https://www.facebook.com/SanaaElectricals"><span className="icon-facebook"></span></Link>
                                                 <Link href="#"><span className="icon-xpa"></span></Link>
                                                 <Link href="#"><span className="icon-link-in"></span></Link>
                                                 <Link href="#"><span className="icon-instagram"></span></Link>

@@ -39,7 +39,7 @@ export default function Home() {
                                         </li>
                                     </ul>
                                     <div className="team-details__social">
-                                        <Link href="#"><i className="fab fa-facebook"></i></Link>
+                                        <Link href="https://www.facebook.com/SanaaElectricals"><i className="fab fa-facebook"></i></Link>
                                         <Link href="#"><i className="fab fa-twitter"></i></Link>
                                         <Link href="#"><i className="fab fa-instagram"></i></Link>
                                         <Link href="#"><i className="fab fa-linkedin"></i></Link>

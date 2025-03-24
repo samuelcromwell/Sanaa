@@ -87,7 +87,7 @@ export default function Home() {
                                     <div className="blog-details__share-box">
                                         <h3 className="blog-details__share-title">Share :</h3>
                                         <div className="blog-details__share">
-                                            <Link href="#"><span className="icon-facebook"></span></Link>
+                                            <Link href="https://www.facebook.com/SanaaElectricals"><span className="icon-facebook"></span></Link>
                                             <Link href="#"><span className="icon-xpa"></span></Link>
                                             <Link href="#"><span className="icon-link-in"></span></Link>
                                             <Link href="#"><span className="icon-instagram"></span></Link>

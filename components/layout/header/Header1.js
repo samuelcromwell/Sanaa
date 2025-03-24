@@ -30,7 +30,7 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu }) {
                     </ul>
                     <div className="main-menu__top-right">
                         <div className="main-menu__social">
-                            <Link href="#"><i className="icon-facebook"></i></Link>
+                            <Link href="https://www.facebook.com/SanaaElectricals"><i className="icon-facebook"></i></Link>
                             <Link href="#"><i className="icon-xpa"></i></Link>
                             <Link href="#"><i className="icon-link-in"></i></Link>
                             <Link href="#"><i className="icon-instagram"></i></Link>

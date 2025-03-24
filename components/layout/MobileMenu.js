@@ -38,17 +38,10 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     <div className="mobile-nav__container">
                         <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                             <ul className="main-menu__list">
-                                <li className={isActive.key == 1 ? "dropdown current" : "dropdown"}><Link href="/">Home</Link>
-                                    <ul style={{ display: `${isActive.key == 1 ? "block" : "none"}` }}>
-                                        <li><Link href="/">Home One</Link></li>
-                                        <li><Link href="index2">Home Two</Link></li>
-                                        <li><Link href="index3">Home Three</Link></li>
-                                        <li><Link href="index-dark">Home Dark</Link></li>
-                                    </ul>
-                                    <button className={isActive.key == 1 ? "expanded open" : ""} onClick={() => handleToggle(1)}><span className="fa fa-angle-right" /></button>
+                                <li><Link href="/">Home</Link>
                                 </li>
                                 <li><Link href="/about/">About</Link></li>
-                                <li className={isActive.key == 2 ? "dropdown current" : "dropdown"}><Link href="/#">Pages</Link>
+                                {/* <li className={isActive.key == 2 ? "dropdown current" : "dropdown"}><Link href="/#">Pages</Link>
                                     <ul style={{ display: `${isActive.key == 2 ? "block" : "none"}` }}>                                 
                                         <li><Link href="team">Team</Link></li>
                                         <li><Link href="team-details">Team Details</Link></li>
@@ -60,7 +53,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                                         <li><Link href="404">404 Error</Link></li>
                                     </ul>
                                     <button className={isActive.key == 2 ? "expanded open" : ""} onClick={() => handleToggle(2)}><span className="fa fa-angle-right" /></button>
-                                </li>
+                                </li> */}
                                 <li className={isActive.key == 3 ? "dropdown current" : "dropdown"}><Link href="/#">Services</Link>
                                     <ul style={{ display: `${isActive.key == 3 ? "block" : "none"}` }}>                                 
                                         <li><Link href="services">Services</Link></li>
@@ -103,17 +96,17 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     <ul className="mobile-nav__contact list-unstyled">
                         <li>
                             <i className="fa fa-envelope"></i>
-                            <Link href="mailto:needhelp@elitecons.com">needhelp@elitecons.com</Link>
+                            <Link href="mailto:sanaaelectricals@gmail.com">sanaaelectricals@gmail.com</Link>
                         </li>
                         <li>
                             <i className="fa fa-phone-alt"></i>
-                            <Link href="tel:666-888-0000">666 888 0000</Link>
+                            <Link href="tel:254722000000">+254 722 000 000</Link>
                         </li>
                     </ul>
                     <div className="mobile-nav__top">
                         <div className="mobile-nav__social">
                             <Link href="#" className="fab fa-twitter"></Link>
-                            <Link href="#" className="fab fa-facebook-square"></Link>
+                            <Link href="https://www.facebook.com/SanaaElectricals" className="fab fa-facebook-square"></Link>
                             <Link href="#" className="fab fa-pinterest-p"></Link>
                             <Link href="#" className="fab fa-instagram"></Link>
                         </div>

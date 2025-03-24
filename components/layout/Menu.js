@@ -22,7 +22,7 @@ export default function Menu() {
                 <li>
                     <Link href="about">About Us</Link>
                 </li>
-                <li className="dropdown">
+                {/* <li className="dropdown">
                     <Link href="#">Pages</Link>
                     <ul>
                         <li><Link href="team">Team</Link></li>
@@ -39,7 +39,7 @@ export default function Menu() {
                         <li><Link href="faq">Faq</Link></li>
                         <li><Link href="404">404 Error</Link></li>
                     </ul>
-                </li>
+                </li> */}
                 <li className="dropdown">
                     <Link href="#">Services</Link>
                     <ul>

@@ -22,7 +22,7 @@ export default function Footer1() {
                                     pains to avoid worse pains to the selection point.<br/> But in certain circumstances
                                 </p>
                                 <div className="site-footer__social">
-                                    <Link href="#"><i className="icon-facebook"></i></Link>
+                                    <Link href="https://www.facebook.com/SanaaElectricals"><i className="icon-facebook"></i></Link>
                                     <Link href="#"><i className="icon-xpa"></i></Link>
                                     <Link href="#"><i className="icon-link-in"></i></Link>
                                     <Link href="#"><i className="icon-instagram"></i></Link>

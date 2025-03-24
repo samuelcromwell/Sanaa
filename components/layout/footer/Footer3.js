@@ -35,7 +35,7 @@ export default function Footer3() {
                                 </div>
                                 <h3 className="footer-widget-three__social-text">Your Brightest <br/> Choice in Repairs</h3>
                                 <div className="site-footer-three__social">
-                                    <Link href="#"><i className="icon-facebook"></i></Link>
+                                    <Link href="https://www.facebook.com/SanaaElectricals"><i className="icon-facebook"></i></Link>
                                     <Link href="#"><i className="icon-xpa"></i></Link>
                                     <Link href="#"><i className="icon-link-in"></i></Link>
                                     <Link href="#"><i className="icon-instagram"></i></Link>
