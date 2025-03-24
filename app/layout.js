@@ -6,8 +6,8 @@ import "swiper/css/pagination"
 import 'swiper/css/free-mode';
 import { archivo, titilliumWeb, pacifico } from '@/lib/font'
 export const metadata = {
-    title: 'Erepair',
-    description: 'Electrician Services & Electrical Repairs react next Js template',
+    title: 'Sanaa Electricals',
+    description: 'Power Up Your World',
 }
 
 export default function RootLayout({ children }) {

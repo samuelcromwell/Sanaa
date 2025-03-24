@@ -20,7 +20,7 @@ export default function Home() {
                             <div className="services-two__icon">
                                 <span className="icon-socket"></span>
                             </div>
-                            <p className="services-two__sub-title">Service Type 1</p>
+                            <p className="services-two__sub-title">Service Type</p>
                             <h3 className="services-two__title"><Link href="electric-panel-repair">Electric Repair</Link>
                             </h3>
                             <p className="services-two__text">The wise man therefore always desi holds in these matters
