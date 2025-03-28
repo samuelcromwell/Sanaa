@@ -50,7 +50,7 @@ export default function Error404() {
                             to avoid worse pains to the selection circumstances</p>
                         <div className="cta-one__btn-and-call-box">
                             <div className="cta-one__btn-box">
-                                <Link href="contact" className="cta-one__btn thm-btn">Get Appointment</Link>
+                                <Link href="contact" className="cta-one__btn thm-btn">Book an Appointment</Link>
                             </div>
                             <div className="cta-one__call-box">
                                 <div className="icon">

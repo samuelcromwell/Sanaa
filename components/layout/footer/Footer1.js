@@ -68,13 +68,13 @@ export default function Footer1() {
                                     <li>
                                         <h3>Address</h3>
                                         <div className="content">
-                                            <p>2972 Westheimer Rd. Santa <br/> Ana, Illinois 8548 </p>
+                                            <p>Mtwapa, Mombasa </p>
                                         </div>
                                     </li>
                                     <li>
                                         <h3>Contact</h3>
                                         <div className="content">
-                                            <p><Link href="tel:8528525285505">+85 2852 5285 505</Link></p>
+                                            <p><Link href="tel:8528525285505">+254700111222</Link></p>
                                             <p><Link href="mailto:sanaaelectricals@gmail.com">sanaaelectricals@gmail.com</Link></p>
                                         </div>
                                     </li>
@@ -87,7 +87,9 @@ export default function Footer1() {
             <div className="site-footer__bottom">
                 <div className="container">
                     <div className="site-footer__bottom-inner">
-                        <p className="site-footer__bottom-text">Copyright 2024. All rights reserved</p>
+                        <p className="site-footer__bottom-text">
+                            Copyright {new Date().getFullYear()}. All rights reserved
+                        </p>
                         <ul className="list-unstyled site-footer__bottom-menu">
                             <li><Link href="contact">Support</Link></li>
                             <li><Link href="about">Terms and Condition</Link></li>
