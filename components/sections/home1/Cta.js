@@ -31,7 +31,7 @@ export default function Cta() {
                             </div>
                             <div className="content">
                                 <p>Make a call</p>
-                                <h4><Link href="tel:00554755242">00 55 475 5242</Link></h4>
+                                <h4><Link href="tel:00554755242">0700222333</Link></h4>
                             </div>
                         </div>
                     </div>
