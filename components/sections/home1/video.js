@@ -15,7 +15,7 @@ export default function Video() {
                     <img src="assets/images/shapes/video-one-shape-1.png" alt=""/>
                 </div>
                 <div className="video-one__bg wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms"
-                    style={{ backgroundImage: 'url(assets/images/backgrounds/video-one-bg.jpg)' }} >
+                    style={{ backgroundImage: 'url(assets/images/backgrounds/video-one-bg.png)' }} >
                     <div className="video-one__video-link">
                         <a onClick={() => setOpen(true)} className="video-popup">
                             <div className="video-one__video-icon">

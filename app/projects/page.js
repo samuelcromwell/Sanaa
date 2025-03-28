@@ -27,14 +27,14 @@ export default function Home() {
                         <div className="project-one__single">
                             <div className="project-one__img-box">
                                 <div className="project-one__img">
-                                    <img src="assets/images/project/project-1-1.jpg" alt=""/>
+                                    <img src="assets/images/project/project-1-1.png" alt=""/>
                                     <div className="project-one__arrow">
-                                        <Link href="assets/images/project/project-1-1.jpg" className="img-popup"><span
+                                        <Link href="assets/images/project/project-1-1.png" className="img-popup"><span
                                                 className="icon-arrow-right"></span></Link>
                                     </div>
                                 </div>
                                 <div className="project-one__content">
-                                    <p className="project-one__sub-title">Express Electric</p>
+                                    <p className="project-one__sub-title">Sanaa Electricals</p>
                                     <h3 className="project-one__title"><Link href="project-details">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
@@ -47,14 +47,14 @@ export default function Home() {
                         <div className="project-one__single">
                             <div className="project-one__img-box">
                                 <div className="project-one__img">
-                                    <img src="assets/images/project/project-1-2.jpg" alt=""/>
+                                    <img src="assets/images/project/project-1-2.png" alt=""/>
                                     <div className="project-one__arrow">
-                                        <Link href="assets/images/project/project-1-2.jpg" className="img-popup"><span
+                                        <Link href="assets/images/project/project-1-2.png" className="img-popup"><span
                                                 className="icon-arrow-right"></span></Link>
                                     </div>
                                 </div>
                                 <div className="project-one__content">
-                                    <p className="project-one__sub-title">Express Electric</p>
+                                    <p className="project-one__sub-title">Sanaa Electricals</p>
                                     <h3 className="project-one__title"><Link href="project-details">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
@@ -67,14 +67,14 @@ export default function Home() {
                         <div className="project-one__single">
                             <div className="project-one__img-box">
                                 <div className="project-one__img">
-                                    <img src="assets/images/project/project-1-3.jpg" alt=""/>
+                                    <img src="assets/images/project/project-1-3.png" alt=""/>
                                     <div className="project-one__arrow">
-                                        <Link href="assets/images/project/project-1-3.jpg" className="img-popup"><span
+                                        <Link href="assets/images/project/project-1-3.png" className="img-popup"><span
                                                 className="icon-arrow-right"></span></Link>
                                     </div>
                                 </div>
                                 <div className="project-one__content">
-                                    <p className="project-one__sub-title">Express Electric</p>
+                                    <p className="project-one__sub-title">Sanaa Electricals</p>
                                     <h3 className="project-one__title"><Link href="project-details">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
@@ -94,7 +94,7 @@ export default function Home() {
                                     </div>
                                 </div>
                                 <div className="project-one__content">
-                                    <p className="project-one__sub-title">Express Electric</p>
+                                    <p className="project-one__sub-title">Sanaa Electricals</p>
                                     <h3 className="project-one__title"><Link href="project-details">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
@@ -114,7 +114,7 @@ export default function Home() {
                                     </div>
                                 </div>
                                 <div className="project-one__content">
-                                    <p className="project-one__sub-title">Express Electric</p>
+                                    <p className="project-one__sub-title">Sanaa Electricals</p>
                                     <h3 className="project-one__title"><Link href="project-details">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
@@ -127,14 +127,14 @@ export default function Home() {
                         <div className="project-one__single">
                             <div className="project-one__img-box">
                                 <div className="project-one__img">
-                                    <img src="assets/images/project/project-1-6.jpg" alt=""/>
+                                    <img src="assets/images/project/project-1-6.png" alt=""/>
                                     <div className="project-one__arrow">
-                                        <Link href="assets/images/project/project-1-6.jpg" className="img-popup"><span
+                                        <Link href="assets/images/project/project-1-6.png" className="img-popup"><span
                                                 className="icon-arrow-right"></span></Link>
                                     </div>
                                 </div>
                                 <div className="project-one__content">
-                                    <p className="project-one__sub-title">Express Electric</p>
+                                    <p className="project-one__sub-title">Sanaa Electricals</p>
                                     <h3 className="project-one__title"><Link href="project-details">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
