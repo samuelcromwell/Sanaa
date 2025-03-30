@@ -75,7 +75,7 @@ export default function Footer1() {
                                         <h3>Contact</h3>
                                         <div className="content">
                                             <p><Link href="tel:8528525285505">+254700111222</Link></p>
-                                            <p><Link href="mailto:sanaaelectricals@gmail.com">sanaaelectricals@gmail.com</Link></p>
+                                            <p><Link href="mailto:sanaaelectricals3@gmail.com">sanaaelectricals3@gmail.com</Link></p>
                                         </div>
                                     </li>
                                 </ul>

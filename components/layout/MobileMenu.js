@@ -96,7 +96,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     <ul className="mobile-nav__contact list-unstyled">
                         <li>
                             <i className="fa fa-envelope"></i>
-                            <Link href="mailto:sanaaelectricals@gmail.com">sanaaelectricals@gmail.com</Link>
+                            <Link href="mailto:sanaaelectricals3@gmail.com">sanaaelectricals3@gmail.com</Link>
                         </li>
                         <li>
                             <i className="fa fa-phone-alt"></i>

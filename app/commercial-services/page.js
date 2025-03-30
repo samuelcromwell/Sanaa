@@ -149,7 +149,7 @@ export default function Home() {
                                         <div className="icon">
                                             <span className="icon-envelope"></span>
                                         </div>
-                                        <p><Link href="mailto:sanaaelectricals@gmail.com">sanaaelectricals@gmail.com</Link></p>
+                                        <p><Link href="mailto:sanaaelectricals3@gmail.com">sanaaelectricals3@gmail.com</Link></p>
                                     </li>
                                     <li>
                                         <div className="icon">
@@ -197,7 +197,7 @@ export default function Home() {
                             </div>
                             <div className="content">
                                 <p>Make a call</p>
-                                <h4><Link href="tel:00554755242">0700222333</Link></h4>
+                                <h4><Link href="tel:0717848262">0717848262</Link></h4>
                             </div>
                         </div>
                     </div>

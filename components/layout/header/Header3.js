@@ -22,7 +22,7 @@ export default function Header3({ scroll, handlePopup, handleMobileMenu  }) {
                                 <i className="icon-envelope"></i>
                             </div>
                             <div className="text">
-                                <p> <span>Mail us</span> <Link href="mailto:info@fonisa24.com">sanaaelectricals@gmail.com</Link>
+                                <p> <span>Mail us</span> <Link href="mailto:info@fonisa24.com">sanaaelectricals3@gmail.com</Link>
                                 </p>
                             </div>
                         </li>
