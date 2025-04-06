@@ -17,7 +17,7 @@ export default function Home() {
                                 <span className="icon-call"></span>
                             </div>
                             <p>Contact Us</p>
-                            <h3><Link href="tel:558270575405">+55 827 057 5405</Link></h3>
+                            <h3><Link href="tel:254717848262">0717848262</Link></h3>
                         </div>
                     </div>
                     {/*Contact Two Single End*/}
