@@ -70,7 +70,7 @@ export default function Home() {
     const [isOpen, setOpen] = useState(false)
     return (
         <>
-        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="About company">
+        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="About Us">
         {/*About One Start */}
         <section className="about-one about-four">
             <div className="about-one__shape-one float-bob-y">
@@ -339,10 +339,10 @@ export default function Home() {
                                     <span className="icon-technician-1"></span>
                                 </div>
                                 <div className="counter-one__count-box">
-                                <CounterUp end={360} />
+                                <CounterUp end={15} />
                                     <span>+</span>
                                 </div>
-                                <p className="counter-one__text">Expert Team Member</p>
+                                <p className="counter-one__text">expert team members</p>
                             </div>
                         </div>
                         {/*Counter One Single End*/}
@@ -356,7 +356,7 @@ export default function Home() {
                                 <CounterUp end={800} />
                                     <span>+</span>
                                 </div>
-                                <p className="counter-one__text">Project Completed</p>
+                                <p className="counter-one__text">Projects Completed</p>
                             </div>
                         </div>
                         {/*Counter One Single End*/}
