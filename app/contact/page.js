@@ -27,7 +27,7 @@ export default function Home() {
                             <div className="contact-two__icon">
                                 <span className="icon-envelope"></span>
                             </div>
-                            <p>Mail Us</p>
+                            <p>Email Us</p>
                             <h3><Link href="mailto:sanaaelectricals3@gmail.com">sanaaelectricals3@gmail.com</Link></h3>
                         </div>
                     </div>
@@ -38,8 +38,8 @@ export default function Home() {
                             <div className="contact-two__icon">
                                 <span className="icon-location"></span>
                             </div>
-                            <p>Our Office Location</p>
-                            <h3>12 Green Road 05 New Yark</h3>
+                            <p>Our Location</p>
+                            <h3>Mtwapa, Mombasa</h3>
                         </div>
                     </div>
                     {/*Contact Two Single End*/}
@@ -56,7 +56,7 @@ export default function Home() {
                         <div className="col-xl-6">
                             <div className="contact-three__left">
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.3785896969525!2d39.7405043!3d-3.94209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x184009bdaaecd919%3A0xc0267cae00519bcb!2sSanaa%20Electricals!5e0!3m2!1sen!2ske!4v1745321154868!5m2!1sen!2ske" 
                                     className="google-map__one" ></iframe>
                             </div>
                         </div>

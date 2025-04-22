@@ -95,7 +95,7 @@ export default function Home() {
                                     </li>
                                     <li>
                                         <h4>location :</h4>
-                                        <p>12 Green Road 05 New Yark</p>
+                                        <p>Mtwapa, Mombasa</p>
                                     </li>
                                 </ul>
                             </div>

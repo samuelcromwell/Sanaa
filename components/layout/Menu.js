@@ -56,7 +56,7 @@ export default function Menu() {
                         <li><Link href="maintenance-service">Maintenance Service</Link></li>
                     </ul>
                 </li>
-                <li className="dropdown">
+                {/* <li className="dropdown">
                     <Link href="#">Shop</Link>
                     <ul>
                         <li><Link href="shop">Products</Link></li>
@@ -66,7 +66,7 @@ export default function Menu() {
                         <li><Link href="wishlist">Wishlist</Link></li>
                         <li><Link href="account">My Account</Link></li>
                     </ul>
-                </li>
+                </li> */}
                 <li className="dropdown">
                     <Link href="#">Blog</Link>
                     <ul>

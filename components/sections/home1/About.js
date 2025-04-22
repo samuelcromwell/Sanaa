@@ -16,7 +16,7 @@ export default function About() {
                                 <div className="col-xl-6">
                                     <div className="about-one__img-box-1">
                                         <div className="about-one__img-1">
-                                            <img src="assets/images/resources/meter-box.jpeg" alt=""/>
+                                            <img src="assets/images/resources/meter-box.png" alt=""/>
                                         </div>
                                     </div>
                                 </div>
@@ -29,7 +29,7 @@ export default function About() {
                                     </div>
                                     <div className="about-one__img-box-2">
                                         <div className="about-one__img-2">
-                                            <img src="assets/images/resources/fundi.jpeg" alt=""/>
+                                            <img src="assets/images/resources/fundi.png" alt=""/>
                                         </div>
                                     </div>
                                 </div>

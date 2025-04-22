@@ -55,8 +55,8 @@ export default function Banner() {
                             </div>
                             <h2 className="main-slider-two__title">Cooling Comfort <br/> One Repair at Time <br/>
                                 In Your Home</h2>
-                            <p className="main-slider-two__text">We have been operating for over a decade, providing
-                                top-notch services We have been <br/> operating for over a decade lenitive antique
+                            <p className="main-slider-two__text">We have been operating for over three years, providing
+                                top-notch services We have been <br/> operating for over three years lenitive antique
                                 corrupt quo quad molestation</p>
                             <div className="main-slider-two__btn-box">
                                 <Link href="about" className="main-slider-two__btn thm-btn">More About Us</Link>
@@ -86,8 +86,8 @@ export default function Banner() {
                             </div>
                             <h2 className="main-slider-two__title">Cooling Comfort <br/> One Repair at Time <br/>
                                 In Your Home</h2>
-                            <p className="main-slider-two__text">We have been operating for over a decade, providing
-                                top-notch services We have been <br/> operating for over a decade lenitive antique
+                            <p className="main-slider-two__text">We have been operating for over three years, providing
+                                top-notch services We have been <br/> operating for over three years lenitive antique
                                 corrupt quo quad molestation</p>
                             <div className="main-slider-two__btn-box">
                                 <Link href="about" className="main-slider-two__btn thm-btn">More About Us</Link>
@@ -117,8 +117,8 @@ export default function Banner() {
                             </div>
                             <h2 className="main-slider-two__title">Cooling Comfort <br/> One Repair at Time <br/>
                                 In Your Home</h2>
-                            <p className="main-slider-two__text">We have been operating for over a decade, providing
-                                top-notch services We have been <br/> operating for over a decade lenitive antique
+                            <p className="main-slider-two__text">We have been operating for over three years, providing
+                                top-notch services We have been <br/> operating for over three years lenitive antique
                                 corrupt quo quad molestation</p>
                             <div className="main-slider-two__btn-box">
                                 <Link href="about" className="main-slider-two__btn thm-btn">More About Us</Link>

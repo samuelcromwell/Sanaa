@@ -56,7 +56,7 @@ export default function Banner() {
                                 <div className="main-slider__sub-title-shape"></div>
                             </div>
                             <h2 className="main-slider__title">Power Up <br/> Your World</h2>
-                            <p className="main-slider__text">We have been illuminating homes and businesses for over a decade, providing <br/> top-tier electrical solutions and unmatched customer service.</p>
+                            <p className="main-slider__text">We have been illuminating homes and businesses for over three years, providing <br/> top-tier electrical solutions and unmatched customer service.</p>
                             <div className="main-slider__btn-box">
                                 <Link href="about" className="main-slider__btn thm-btn">Learn More</Link>
                             </div>
@@ -82,7 +82,7 @@ export default function Banner() {
                                 <div className="main-slider__sub-title-shape"></div>
                             </div>
                             <h2 className="main-slider__title">Power Up <br/> Your World</h2>
-                            <p className="main-slider__text">We have been illuminating homes and businesses for over a decade, providing <br/> top-tier electrical solutions and unmatched customer service.</p>
+                            <p className="main-slider__text">We have been illuminating homes and businesses for over three years, providing <br/> top-tier electrical solutions and unmatched customer service.</p>
                             <div className="main-slider__btn-box">
                                 <Link href="about" className="main-slider__btn thm-btn">Learn More</Link>
                             </div>
@@ -109,7 +109,7 @@ export default function Banner() {
                                 <div className="main-slider__sub-title-shape"></div>
                             </div>
                             <h2 className="main-slider__title">Power Up <br/> Your World</h2>
-                            <p className="main-slider__text">We have been illuminating homes and businesses for over a decade, providing <br/> top-tier electrical solutions and unmatched customer service.</p>
+                            <p className="main-slider__text">We have been illuminating homes and businesses for over three years, providing <br/> top-tier electrical solutions and unmatched customer service.</p>
                             <div className="main-slider__btn-box">
                                 <Link href="about" className="main-slider__btn thm-btn">Learn More</Link>
                             </div>

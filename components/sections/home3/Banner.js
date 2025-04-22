@@ -54,8 +54,8 @@ export default function Banner() {
                                 <p className="main-slider-three__sub-title">Best Repairs</p>
                             </div>
                             <h2 className="main-slider-three__title">We Are Experts At <br/> Cell Phone Repair!</h2>
-                            <p className="main-slider-three__text">We have been operating for over a decade, providing
-                                top-notch services We have been <br/> operating for over a decade lenitive antique
+                            <p className="main-slider-three__text">We have been operating for over three years, providing
+                                top-notch services We have been <br/> operating for over three years lenitive antique
                                 corrupt quo quad molestation</p>
                             <div className="main-slider-three__btn-box">
                                 <Link href="services" className="main-slider-three__btn thm-btn">Repair My Device</Link>
@@ -84,8 +84,8 @@ export default function Banner() {
                                 <p className="main-slider-three__sub-title">Best Repairs</p>
                             </div>
                             <h2 className="main-slider-three__title">We Are Experts At <br/> Cell Phone Repair!</h2>
-                            <p className="main-slider-three__text">We have been operating for over a decade, providing
-                                top-notch services We have been <br/> operating for over a decade lenitive antique
+                            <p className="main-slider-three__text">We have been operating for over three years, providing
+                                top-notch services We have been <br/> operating for over three years lenitive antique
                                 corrupt quo quad molestation</p>
                             <div className="main-slider-three__btn-box">
                                 <Link href="services" className="main-slider-three__btn thm-btn">Repair My Device</Link>
@@ -114,8 +114,8 @@ export default function Banner() {
                                 <p className="main-slider-three__sub-title">Best Repairs</p>
                             </div>
                             <h2 className="main-slider-three__title">We Are Experts At <br/> Cell Phone Repair!</h2>
-                            <p className="main-slider-three__text">We have been operating for over a decade, providing
-                                top-notch services We have been <br/> operating for over a decade lenitive antique
+                            <p className="main-slider-three__text">We have been operating for over three years, providing
+                                top-notch services We have been <br/> operating for over three years lenitive antique
                                 corrupt quo quad molestation</p>
                             <div className="main-slider-three__btn-box">
                                 <Link href="services" className="main-slider-three__btn thm-btn">Repair My Device</Link>
