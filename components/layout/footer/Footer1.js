@@ -17,9 +17,8 @@ export default function Footer1() {
                                     <Link href="/"><img src="assets/images/resources/footer-logo-1.png"
                                             alt=""/></Link>
                                 </div>
-                                <p className="footer-widget__about-text">Secure other greater pleasures, or else he
-                                    endures<br/>
-                                    pains to avoid worse pains to the selection point.<br/> But in certain circumstances
+                                <p className="footer-widget__about-text">We supply a wide variety of high-quality electrical parts and accessories for homes, businesses, and industries.<br/>
+                                Our products are sourced from trusted brands to ensure durability, safety, and efficiency.<br/>
                                 </p>
                                 <div className="site-footer__social">
                                     <Link href="https://www.facebook.com/SanaaElectricals"><i className="icon-facebook"></i></Link>
