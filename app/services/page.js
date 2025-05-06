@@ -6,7 +6,12 @@ export default function Home() {
 
     return (
         <>
-        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="Our services">
+        <Layout
+                headerStyle={2}
+                footerStyle={1}
+                breadcrumbTitle="Our Services"
+                breadcrumbImage="/assets/images/resources/page-header-services.png" // <-- your image path
+            >
         {/*Services Page Start */}
         <section className="services-two services-page">
             <div className="services-two__shape-1 img-bounce">
@@ -234,8 +239,7 @@ export default function Home() {
                             <span className="section-title__tagline">Get To Know Us</span>
                         </div>
                         <div className="section-title__title-box sec-title-animation animation-style2">
-                            <h2 className="section-title__title title-animation">Save Money With Specials<br/> Discount Offer
-                            </h2>
+                            <h2 className="section-title__title title-animation">Save Money With our<br/> Offers and Discounts</h2>
                         </div>
                     </div>
                     <p className="cta-one__text">Pleasures to secure other greater pleasures, or else he endures pains<br/>

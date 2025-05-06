@@ -5,8 +5,12 @@ export default function Home() {
 
     return (
         <>
-        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="Contact">
-        {/*Contact Two Start*/}
+        <Layout
+            headerStyle={2}
+            footerStyle={1}
+            breadcrumbTitle="Contact Us"
+            breadcrumbImage="/assets/images/resources/page-header-contact.png" // <-- your image path
+        >        {/*Contact Two Start*/}
         <section className="contact-two">
             <div className="container">
                 <div className="row">

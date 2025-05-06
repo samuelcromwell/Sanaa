@@ -50,7 +50,7 @@ export default function About() {
                             <p className="about-one__text-1">At Sanaa Electricals, we are committed to providing the highest-quality electrical solutions for homes, businesses, and industries in Mtwapa. With a team of experienced electricians and a vast selection of electrical products, we aim to meet your needs with precision, reliability, and excellent customer service</p>
                             <p className="about-one__text-2">Whether you need to purchase electrical supplies, have a new system installed, or require maintenance and repairs, we’ve got you covered. </p>
                             <div className="about-one__btn-box">
-                                <Link href="about" className="about-one__btn thm-btn">About Us More</Link>
+                                <Link href="about" className="about-one__btn thm-btn">More About Us</Link>
                             </div>
                         </div>
                     </div>
