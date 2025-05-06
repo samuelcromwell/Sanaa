@@ -11,7 +11,7 @@ export default function Project() {
                             <span className="section-title__tagline">Our Gallery</span>
                         </div>
                         <div className="section-title__title-box sec-title-animation animation-style2">
-                            <h2 className="section-title__title title-animation">Your Brightest <br/>Choice in Repairs</h2>
+                            <h2 className="section-title__title title-animation">Your Brightest Choice<br/>in Repairs and Installations</h2>
                         </div>
                     </div>
                     <div className="project-one__btn-box">

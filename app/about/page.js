@@ -74,7 +74,7 @@ export default function Home() {
             headerStyle={2}
             footerStyle={1}
             breadcrumbTitle="About Us"
-            breadcrumbImage="/assets/images/resources/page-header-about.png" // <-- your image path
+            breadcrumbImage="/assets/images/resources/page-header-about.png" 
         >
         {/*About One Start */}
         <section className="about-one about-four">
@@ -394,7 +394,7 @@ export default function Home() {
                             <span className="section-title__tagline">Our Gallery</span>
                         </div>
                         <div className="section-title__title-box sec-title-animation animation-style2">
-                            <h2 className="section-title__title title-animation">Your Brightest <br/>Choice in Repairs</h2>
+                            <h2 className="section-title__title title-animation">Your Brightest Choice<br/>in Repairs and Installations</h2>
                         </div>
                     </div>
                     <div className="project-one__btn-box">
