@@ -36,7 +36,7 @@ export default function Footer2() {
                                         </div>
                                         <div className="content">
                                             <h3>Location</h3>
-                                            <p>4517 Washington Ave. Manchester, 95</p>
+                                            <p>Mtwapa, Mombasa, 95</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -64,11 +64,11 @@ export default function Footer2() {
                                     <h3 className="footer-widget-two__title">Our Service</h3>
                                 </div>
                                 <ul className="footer-widget-two__link list-unstyled">
-                                    <li><Link href="electric-panel-repair">Heating Service</Link></li>
+                                    <li><Link href="electric-maintenance-repairs ">Heating Service</Link></li>
                                     <li><Link href="installing-ceiling-fan">A/C Installation</Link></li>
                                     <li><Link href="maintenance-service">Dust Cleaning</Link></li>
                                     <li><Link href="maintenance-service">Colling Service</Link></li>
-                                    <li><Link href="electric-panel-repair">A/C Repair</Link></li>
+                                    <li><Link href="electric-maintenance-repairs ">A/C Repair</Link></li>
                                 </ul>
                             </div>
                         </div>

@@ -57,7 +57,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                                 <li className={isActive.key == 3 ? "dropdown current" : "dropdown"}><Link href="/#">Services</Link>
                                     <ul style={{ display: `${isActive.key == 3 ? "block" : "none"}` }}>                                 
                                         <li><Link href="services">Services</Link></li>
-                                        <li><Link href="electric-panel-repair">Electric Panel Repair</Link></li>
+                                        <li><Link href="electric-maintenance-repairs ">Electric Maintenance & Repairs</Link></li>
                                         <li><Link href="short-circuit-repair">Short Circuit Repair</Link>
                                         </li>
                                         <li><Link href="commercial-services">Commercial Services</Link>
@@ -100,7 +100,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                         </li>
                         <li>
                             <i className="fa fa-phone-alt"></i>
-                            <Link href="tel:254722000000">+254 722 000 000</Link>
+                            <Link href="tel:254717848262">+254 717 848 262</Link>
                         </li>
                     </ul>
                     <div className="mobile-nav__top">

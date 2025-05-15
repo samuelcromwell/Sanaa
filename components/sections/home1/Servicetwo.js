@@ -25,12 +25,12 @@ export default function Servicetwo() {
                                 <span className="icon-socket"></span>
                             </div>
                             {/* <p className="services-two__sub-title">Service Type 1</p> */}
-                            <h3 className="services-two__title"><Link href="electric-panel-repair">Electrical Maintenance & Repairs</Link>
+                            <h3 className="services-two__title"><Link href="electric-maintenance-repairs ">Electrical Maintenance & Repairs</Link>
                             </h3>
                             <p className="services-two__text">To keep your electrical systems running efficiently, we offer routine maintenance and fast repair services. 
                                 Our team ensures that your setup is safe, functional, and energy-efficient.
                             </p>
-                            <Link href="electric-panel-repair" className="services-two__learn-more">Learn More<span
+                            <Link href="electric-maintenance-repairs " className="services-two__learn-more">Learn More<span
                                     className="icon-arrow-right"></span></Link>
                         </div>
                     </div>

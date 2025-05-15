@@ -109,7 +109,7 @@ export default function Home() {
                                         <div className="icon">
                                             <span className="icon-call"></span>
                                         </div>
-                                        <p><Link href="tel:585858575084">+58 585 857 5084</Link></p>
+                                        <p><Link href="tel:254717848262">+254 717 848 262</Link></p>
                                     </li>
                                     <li>
                                         <div className="icon">
@@ -121,7 +121,7 @@ export default function Home() {
                                         <div className="icon">
                                             <span className="icon-location"></span>
                                         </div>
-                                        <p>4517 Washington Ave. Manchester,<br/> Kentucky 39495</p>
+                                        <p>Mtwapa, Mombasa,<br/> </p>
                                     </li>
                                 </ul>
                                 <div className="project-details__get-started-btn-box">
@@ -148,12 +148,12 @@ export default function Home() {
                             <span className="section-title__tagline">Get To Know Us</span>
                         </div>
                         <div className="section-title__title-box sec-title-animation animation-style2">
-                            <h2 className="section-title__title title-animation">Save Money With Specials<br/> Discount Offer
+                            <h2 className="section-title__title title-animation">Save Money with our<br/> Amazing Discounts
                             </h2>
                         </div>
                     </div>
-                    <p className="cta-one__text">Pleasures to secure other greater pleasures, or else he endures pains<br/>
-                        to avoid worse pains to the selection circumstances</p>
+                    <p className="cta-one__text">Get amazing value for your money with our quality products <br/>
+                        trusted by professionals for durability and safety</p>
                     <div className="cta-one__btn-and-call-box">
                         <div className="cta-one__btn-box">
                             <Link href="contact" className="cta-one__btn thm-btn">Book an Appointment</Link>

@@ -16,14 +16,14 @@ export default function Video() {
                 </div>
                 <div className="video-one__bg wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms"
                     style={{ backgroundImage: 'url(assets/images/backgrounds/video-one-bg.png)' }} >
-                    <div className="video-one__video-link">
+                    {/* <div className="video-one__video-link">
                         <a onClick={() => setOpen(true)} className="video-popup">
                             <div className="video-one__video-icon">
                                 <span className="fas fa-play"></span>
                                 <i className="ripple"></i>
                             </div>
                         </a>
-                    </div>
+                    </div> */}
                 </div>
                 <div className="container">
                     <div className="row">

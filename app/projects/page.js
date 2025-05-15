@@ -159,12 +159,12 @@ export default function Home() {
                             <span className="section-title__tagline">Get To Know Us</span>
                         </div>
                         <div className="section-title__title-box sec-title-animation animation-style2">
-                            <h2 className="section-title__title title-animation">Save Money With Specials<br/> Discount Offer
+                            <h2 className="section-title__title title-animation">Save Money with our<br/> Amazing Discounts
                             </h2>
                         </div>
                     </div>
-                    <p className="cta-one__text">Pleasures to secure other greater pleasures, or else he endures pains<br/>
-                        to avoid worse pains to the selection circumstances</p>
+                    <p className="cta-one__text">Get amazing value for your money with our quality products <br/>
+                        trusted by professionals for durability and safety</p>
                     <div className="cta-one__btn-and-call-box">
                         <div className="cta-one__btn-box">
                             <Link href="contact" className="cta-one__btn thm-btn">Book an Appointment</Link>

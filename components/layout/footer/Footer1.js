@@ -50,7 +50,7 @@ export default function Footer1() {
                                     <h3 className="footer-widget__title">Our Service</h3>
                                 </div>
                                 <ul className="footer-widget__link list-unstyled">
-                                    <li><Link href="electric-panel-repair">Electric Repair</Link></li>
+                                    <li><Link href="electric-maintenance-repairs ">Electric Repair</Link></li>
                                     <li><Link href="lighting-fixtures">Lighting & Fixture</Link></li>
                                     <li><Link href="maintenance-service">European Lard Sration</Link></li>
                                     <li><Link href="maintenance-service">Electric Maintenance</Link></li>
@@ -73,7 +73,7 @@ export default function Footer1() {
                                     <li>
                                         <h3>Contact</h3>
                                         <div className="content">
-                                            <p><Link href="tel:8528525285505">+254700111222</Link></p>
+                                            <p><Link href="tel:254717848262">+254 717 848 262</Link></p>
                                             <p><Link href="mailto:sanaaelectricals3@gmail.com">sanaaelectricals3@gmail.com</Link></p>
                                         </div>
                                     </li>
@@ -89,11 +89,11 @@ export default function Footer1() {
                         <p className="site-footer__bottom-text">
                             Copyright {new Date().getFullYear()}. All rights reserved
                         </p>
-                        <ul className="list-unstyled site-footer__bottom-menu">
+                        {/* <ul className="list-unstyled site-footer__bottom-menu">
                             <li><Link href="contact">Support</Link></li>
-                            <li><Link href="about">Terms and Condition</Link></li>
+                            <li><Link href="about">Terms and Conditions</Link></li>
                             <li><Link href="about">Privacy and Policy</Link></li>
-                        </ul>
+                        </ul> */}
                     </div>
                 </div>
             </div>

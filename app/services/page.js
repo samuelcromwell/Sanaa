@@ -26,12 +26,12 @@ export default function Home() {
                                 <span className="icon-socket"></span>
                             </div>
                             {/* <p className="services-two__sub-title">Service Type 1</p> */}
-                            <h3 className="services-two__title"><Link href="electric-panel-repair">Electrical Maintenance & Repairs</Link>
+                            <h3 className="services-two__title"><Link href="electric-maintenance-repairs ">Electrical Maintenance & Repairs</Link>
                             </h3>
                             <p className="services-two__text">To keep your electrical systems running efficiently, we offer routine maintenance and fast repair services. 
                                 Our team ensures that your setup is safe, functional, and energy-efficient.
                             </p>
-                            <Link href="electric-panel-repair" className="services-two__learn-more">Learn More<span
+                            <Link href="electric-maintenance-repairs " className="services-two__learn-more">Learn More<span
                                     className="icon-arrow-right"></span></Link>
                         </div>
                     </div>
@@ -242,8 +242,8 @@ export default function Home() {
                             <h2 className="section-title__title title-animation">Save Money With our<br/> Offers and Discounts</h2>
                         </div>
                     </div>
-                    <p className="cta-one__text">Pleasures to secure other greater pleasures, or else he endures pains<br/>
-                        to avoid worse pains to the selection circumstances</p>
+                    <p className="cta-one__text">Get amazing value for your money with our quality products <br/>
+                        trusted by professionals for durability and safety</p>
                     <div className="cta-one__btn-and-call-box">
                         <div className="cta-one__btn-box">
                             <Link href="contact" className="cta-one__btn thm-btn">Book an Appointment</Link>

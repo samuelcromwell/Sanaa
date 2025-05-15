@@ -6,7 +6,7 @@ import Services from "@/components/sections/home3/Services"
 import Blog from "@/components/sections/home3/Blog"
 import Process from "@/components/sections/home3/Process"
 import Skill from "@/components/sections/home3/Skill"
-import Pricing from "@/components/sections/home3/Pricing"
+// import Pricing from "@/components/sections/home3/Pricing"
 export default function Home() {
 
     return (

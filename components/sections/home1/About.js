@@ -43,7 +43,7 @@ export default function About() {
                                     <span className="section-title__tagline">Get To Know Us</span>
                                 </div>
                                 <div className="section-title__title-box sec-title-animation animation-style2">
-                                    <h2 className="section-title__title title-animation">Your Trusted Electrical Partner in Mtwapa
+                                    <h2 className="section-title__title title-animation">Your Trusted Electrical Partner in Mombasa
                                     </h2>
                                 </div>
                             </div>

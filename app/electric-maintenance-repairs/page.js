@@ -5,7 +5,7 @@ export default function Home() {
 
     return (
         <>
-        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="Electric Panel Repair">
+        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="Electrical Maintenance & Repairs">
         {/*Service Details Start*/}
         <section className="service-details">
             <div className="container">
@@ -13,46 +13,39 @@ export default function Home() {
                     <div className="col-xl-8 col-lg-7">
                         <div className="service-details__left">
                             <div className="service-details__img">
-                                <img src="assets/images/services/service-details-img-5.jpg" alt=""/>
+                                <img src="assets/images/services/repair.png" alt=""/>
                             </div>
-                            <h3 className="service-details__title-1">Electric Panel Repair</h3>
-                            <p className="service-details__text-1">Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-                                sint occaecat cupidatat non proident, sunt in culpa</p>
-                            <p className="service-details__text-2">Consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut laborer et dolore magna aliqua. Out enigma ad minim veniam, quis nostrud
-                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute inure
-                                dolor in the reprehenderit in voluptate velit esse cillum dolore eu fugiat null
-                                pariatur. Excepteur snit occaecat cupidatat non proident, sunt in culpa qui officia
-                                deserunt mollit anim id est laborum.</p>
+                            <h3 className="service-details__title-1">Electrical Maintenance & Repairs</h3>
+                            <p className="service-details__text-1">
+                                We provide professional electrical maintenance and repair services for homes, offices and commercial spaces. Our team is skilled in identifying faults, ensuring safe wiring and restoring power with minimal disruption. We prioritize safety and efficiency in every job we handle.
+                            </p>
+                            <p className="service-details__text-2">
+                                Whether it’s fixing a faulty circuit, replacing worn-out components, or performing routine inspections, our technicians are equipped with the tools and expertise to deliver reliable solutions. We work according to industry standards to ensure your electrical systems are running smoothly and safely. Let us help you prevent issues before they become costly problems.
+                            </p>
                             <ul className="service-details__points-list list-unstyled">
                                 <li>
                                     <div className="icon">
                                         <span className="icon-arrow-right"></span>
                                     </div>
-                                    <p>It is a long established fact that a reader will be distr acted bioiiy the rea
-                                        dablea </p>
+                                    <p>Expert troubleshooting and repair of faulty electrical systems and components</p>
                                 </li>
                                 <li>
                                     <div className="icon">
                                         <span className="icon-arrow-right"></span>
                                     </div>
-                                    <p>Distr acted bioiiy the rea dablea content of a page when looking at its layout
-                                    </p>
+                                    <p>Routine maintenance to extend equipment lifespan and prevent future issues</p>
                                 </li>
                                 <li>
                                     <div className="icon">
                                         <span className="icon-arrow-right"></span>
                                     </div>
-                                    <p>Content of a page when looking at its layout toile point</p>
+                                    <p>Inspection and testing to ensure full compliance with safety regulations</p>
                                 </li>
                                 <li>
                                     <div className="icon">
                                         <span className="icon-arrow-right"></span>
                                     </div>
-                                    <p>Reader will be distr acted bioiiy the rea dablea content of a page when looking
-                                    </p>
+                                    <p>Quick response to emergencies and minimal downtime during repairs</p>
                                 </li>
                             </ul>
                             <div className="service-details__img-box">
@@ -60,7 +53,7 @@ export default function Home() {
                                     <div className="col-xl-6">
                                         <div className="service-details__img-box-single">
                                             <div className="service-details__img-box-img">
-                                                <img src="assets/images/services/service-details-img-box-img-1.jpg"
+                                                <img src="assets/images/services/good-quality.png"
                                                     alt=""/>
                                             </div>
                                             <div className="service-details__img-box-content">
@@ -68,20 +61,18 @@ export default function Home() {
                                                     <div className="service-details__img-box-content-icon">
                                                         <span className="icon-lamp"></span>
                                                     </div>
-                                                    <h3 className="service-details__img-box-content-title">Quality Full Work
-                                                    </h3>
+                                                    <h3 className="service-details__img-box-content-title">Good Quality Work</h3>
                                                 </div>
-                                                <p className="service-details__img-box-content-text">Duis acute arura dolor
-                                                    in
-                                                    reprehenderit in voluptate velit esse cillum dolore Velit esse quam
-                                                    nihil molestiae thos consequatur, Velia ease chillum dolore</p>
+                                                <p className="service-details__img-box-content-text">
+                                                    We pride ourselves on delivering top-tier electrical work with precision and care. Every project is completed to the highest standard, using quality materials and expert techniques to ensure long-lasting and reliable results.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-xl-6">
                                         <div className="service-details__img-box-single">
                                             <div className="service-details__img-box-img">
-                                                <img src="assets/images/services/service-details-img-box-img-2.jpg"
+                                                <img src="assets/images/services/happy-customer.png"
                                                     alt=""/>
                                             </div>
                                             <div className="service-details__img-box-content">
@@ -89,13 +80,11 @@ export default function Home() {
                                                     <div className="service-details__img-box-content-icon">
                                                         <span className="icon-chirger"></span>
                                                     </div>
-                                                    <h3 className="service-details__img-box-content-title">100% Work
-                                                        Satisfication</h3>
+                                                    <h3 className="service-details__img-box-content-title">100% Customer Satisfaction</h3>
                                                 </div>
-                                                <p className="service-details__img-box-content-text">Duis acute arura dolor
-                                                    in
-                                                    reprehenderit in voluptate velit esse cillum dolore Velit esse quam
-                                                    nihil molestiae thos consequatur, Velia ease chillum dolore</p>
+                                                <p className="service-details__img-box-content-text">
+                                                    Our commitment to customer satisfaction means we don't leave until the job is done right. We listen to your needs, communicate clearly, and go the extra mile to ensure every client is fully satisfied with our service and support.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -109,7 +98,7 @@ export default function Home() {
                                 <h3 className="service-details__services-title">Our Service</h3>
                                 <ul className="service-details__services-list list-unstyled">
                                     <li className="active">
-                                        <Link href="electric-panel-repair">Electric Panel Repair<span
+                                        <Link href="electric-maintenance-repairs ">Electrical Maintenance & Repairs<span
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                     <li>
@@ -120,7 +109,7 @@ export default function Home() {
                                         <Link href="commercial-services">Commercial services<span
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <Link href="installing-ceiling-fan">installing a ceiling fan<span
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
@@ -131,20 +120,20 @@ export default function Home() {
                                     <li>
                                         <Link href="maintenance-service">Maintenance Service<span
                                                 className="icon-arrow-right"></span></Link>
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                             <div className="project-details__get-started">
-                                <h3 className="project-details__get-started-title">Get Started Today</h3>
-                                <p className="project-details__get-started-text">Pianissimos of dulcimers qui therefore
-                                    always
-                                    holds in these matters to this principle</p>
+                                <h3 className="project-details__get-started-title">Reach Out Today</h3>
+                                    <p className="project-details__get-started-text">
+                                        Have an electrical issue or project in mind? Contact us today to schedule a service, request a quote, or get expert advice. We’re here to help you with reliable solutions every step of the way.
+                                    </p>
                                 <ul className="project-details__get-started-points list-unstyled">
                                     <li>
                                         <div className="icon">
                                             <span className="icon-call"></span>
                                         </div>
-                                        <p><Link href="tel:585858575084">+58 585 857 5084</Link></p>
+                                        <p><Link href="tel:254717848262">+254 717 848 262</Link></p>
                                     </li>
                                     <li>
                                         <div className="icon">
@@ -156,11 +145,11 @@ export default function Home() {
                                         <div className="icon">
                                             <span className="icon-location"></span>
                                         </div>
-                                        <p>4517 Washington Ave. Manchester,<br/> Kentucky 39495</p>
+                                        <p>Mtwapa, Mombasa,<br/> </p>
                                     </li>
                                 </ul>
                                 <div className="project-details__get-started-btn-box">
-                                    <Link href="#" className="project-details__get-started-btn thm-btn">get in touch</Link>
+                                    <Link href="/contact" className="project-details__get-started-btn thm-btn">get in touch</Link>
                                 </div>
                             </div>
                         </div>
@@ -182,12 +171,12 @@ export default function Home() {
                             <span className="section-title__tagline">Get To Know Us</span>
                         </div>
                         <div className="section-title__title-box sec-title-animation animation-style2">
-                            <h2 className="section-title__title title-animation">Save Money With Specials<br/> Discount Offer
+                            <h2 className="section-title__title title-animation">Save Money with our<br/> Amazing Discounts
                             </h2>
                         </div>
                     </div>
-                    <p className="cta-one__text">Pleasures to secure other greater pleasures, or else he endures pains<br/>
-                        to avoid worse pains to the selection circumstances</p>
+                    <p className="cta-one__text">Get amazing value for your money with our quality products <br/>
+                        trusted by professionals for durability and safety</p>
                     <div className="cta-one__btn-and-call-box">
                         <div className="cta-one__btn-box">
                             <Link href="contact" className="cta-one__btn thm-btn">Book an Appointment</Link>

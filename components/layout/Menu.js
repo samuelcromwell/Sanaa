@@ -44,7 +44,7 @@ export default function Menu() {
                     <Link href="#">Services</Link>
                     <ul>
                         <li><Link href="services">Services</Link></li>
-                        <li><Link href="electric-panel-repair">Electric Panel Repair</Link></li>
+                        <li><Link href="electric-maintenance-repairs ">Electric Maintenance & Repairs</Link></li>
                         <li><Link href="short-circuit-repair">Short Circuit Repair</Link>
                         </li>
                         <li><Link href="commercial-services">Commercial Services</Link>
