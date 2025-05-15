@@ -27,7 +27,7 @@ export default function Home() {
                 <Video/>
                 <Funfacts />
                 <Project />
-                <Pricing />
+                {/* <Pricing /> */}
                 <Blog />
                 <Cta />
             </Layout>

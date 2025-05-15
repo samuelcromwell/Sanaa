@@ -17,7 +17,7 @@ export default function Home() {
                 <Services />
                 <Process />
                 <Skill />
-                <Pricing />
+                {/* <Pricing /> */}
                 <Blog />
             </Layout>
         </>
