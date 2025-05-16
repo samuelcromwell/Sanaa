@@ -87,17 +87,17 @@ export default function Home() {
                                         </div>
                                         <div className="col-xl-6 col-lg-6">
                                             <div className="contact-three__input-box">
-                                                <input type="text" placeholder="Company" name="company"/>
+                                                <input type="text" placeholder="Location" name="location"/>
                                             </div>
                                         </div>
                                         <div className="col-xl-12">
                                             <div className="contact-three__input-box text-message-box">
-                                                <textarea name="message" placeholder="Messege"></textarea>
+                                                <textarea name="message" placeholder="Message"></textarea>
                                             </div>
                                             <div className="contact-three__btn-box">
                                                 <button type="submit" className="thm-btn contact-three__btn"
                                                     data-loading-text="Please wait...">
-                                                    send a message
+                                                    submit
                                                 </button>
                                             </div>
                                         </div>
