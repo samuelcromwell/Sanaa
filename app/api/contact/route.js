@@ -16,7 +16,7 @@ export async function POST(req) {
     const mailOptions = {
       from: `"${name}" <${email}>`,
       to: 'cromwellsamuel3@gmail.com',
-      subject: 'New Quote Request from Website',
+      subject: 'New Quote Request from Sanaa Electricals Website',
       text: `
         Name: ${name}
         Email: ${email}
