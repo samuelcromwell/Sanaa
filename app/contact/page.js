@@ -1,6 +1,7 @@
 
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
+import ContactForm from '@/components/ContactForm';
 export default function Home() {
 
     return (
@@ -67,42 +68,8 @@ export default function Home() {
                         <div className="col-xl-6">
                             <div className="contact-three__right">
                                 <h3 className="contact-three__form-title">Get A Free Quote</h3>
-                                <form id="contact-form" className="contact-form-validated contact-three__form"
-                                    action="assets/mail.php" method="POST">
-                                    <div className="row">
-                                        <div className="col-xl-6 col-lg-6">
-                                            <div className="contact-three__input-box">
-                                                <input type="text" name="name" placeholder="Your name" required=""/>
-                                            </div>
-                                        </div>
-                                        <div className="col-xl-6 col-lg-6">
-                                            <div className="contact-three__input-box">
-                                                <input type="email" name="email" placeholder="Your Email" required=""/>
-                                            </div>
-                                        </div>
-                                        <div className="col-xl-6 col-lg-6">
-                                            <div className="contact-three__input-box">
-                                                <input type="number" placeholder="Mobile" name="number"/>
-                                            </div>
-                                        </div>
-                                        <div className="col-xl-6 col-lg-6">
-                                            <div className="contact-three__input-box">
-                                                <input type="text" placeholder="Location" name="location"/>
-                                            </div>
-                                        </div>
-                                        <div className="col-xl-12">
-                                            <div className="contact-three__input-box text-message-box">
-                                                <textarea name="message" placeholder="Message"></textarea>
-                                            </div>
-                                            <div className="contact-three__btn-box">
-                                                <button type="submit" className="thm-btn contact-three__btn"
-                                                    data-loading-text="Please wait...">
-                                                    submit
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
+                                <ContactForm />
+                                
                                 <p className="ajax-response mb-0"></p>
                             </div>
                         </div>
