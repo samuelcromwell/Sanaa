@@ -87,7 +87,7 @@ export default function Home() {
                                             <div className="service-details__img-box-content">
                                                 <div className="service-details__img-box-content-icon-and-title">
                                                     <div className="service-details__img-box-content-icon">
-                                                        <span className="icon-chirger"></span>
+                                                        <span className="icon-charger"></span>
                                                     </div>
                                                     <h3 className="service-details__img-box-content-title">100% Work
                                                         Satisfication</h3>
