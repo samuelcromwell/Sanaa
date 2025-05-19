@@ -4,8 +4,7 @@ import Link from "next/link"
 export default function Home() {
     return (
         <>
-        <Layout 
-            headerStyle={2} 
+        <Layout headerStyle={2} 
             footerStyle={1} 
             breadcrumbTitle="Electrical Products Sales" 
             breadcrumbImage="/assets/images/resources/sales-header.png"
@@ -94,10 +93,7 @@ export default function Home() {
                                 <ul className="service-details__services-list list-unstyled">
                                     <li><Link href="electric-maintenance-repairs">Electric Maintenance & Repairs <span className="icon-arrow-right"></span></Link></li>
                                     <li className="active"><Link href="electrical-products-sales">Electrical Products Sales <span className="icon-arrow-right"></span></Link></li>
-                                    <li><Link href="short-circuit-repair">Short Circuit Repair <span className="icon-arrow-right"></span></Link></li>
-                                    <li><Link href="commercial-services">Commercial Services <span className="icon-arrow-right"></span></Link></li>
-                                    <li><Link href="installing-ceiling-fan">Installing a Ceiling Fan <span className="icon-arrow-right"></span></Link></li>
-                                    <li><Link href="maintenance-service">Maintenance Service <span className="icon-arrow-right"></span></Link></li>
+                                    <li><Link href="electrical-installation-services">Electrical Installation Services<span className="icon-arrow-right"></span></Link></li>
                                 </ul>
                             </div>
 

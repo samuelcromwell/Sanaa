@@ -129,16 +129,16 @@ export default function Home() {
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                     <li>
-                                        <Link href="maintenance-service">Maintenance Service<span
+                                        <Link href="electrical-installation-services">Maintenance Service<span
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                 </ul>
                             </div>
                             <div className="project-details__get-started">
                                 <h3 className="project-details__get-started-title">Get Started Today</h3>
-                                <p className="project-details__get-started-text">Pianissimos of dulcimers qui therefore
+                                <p className="project-details__get-started-text">Have an electrical issue or project in mind? Contact us today to schedule a service, request a quote, or get expert advice.
                                     always
-                                    holds in these matters to this principle</p>
+                                     We’re here to help you with reliable solutions every step of the way.</p>
                                 <ul className="project-details__get-started-points list-unstyled">
                                     <li>
                                         <div className="icon">

@@ -66,8 +66,8 @@ export default function Footer2() {
                                 <ul className="footer-widget-two__link list-unstyled">
                                     <li><Link href="electric-maintenance-repairs ">Heating Service</Link></li>
                                     <li><Link href="installing-ceiling-fan">A/C Installation</Link></li>
-                                    <li><Link href="maintenance-service">Dust Cleaning</Link></li>
-                                    <li><Link href="maintenance-service">Colling Service</Link></li>
+                                    <li><Link href="electrical-installation-services">Dust Cleaning</Link></li>
+                                    <li><Link href="electrical-installation-services">Colling Service</Link></li>
                                     <li><Link href="electric-maintenance-repairs ">A/C Repair</Link></li>
                                 </ul>
                             </div>

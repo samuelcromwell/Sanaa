@@ -66,7 +66,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                                         </li>
                                         <li><Link href="installing-ceiling-fan">Installing A Ceiling Fan</Link>
                                         </li>
-                                        <li><Link href="maintenance-service">Maintenance Service</Link></li>
+                                        <li><Link href="electrical-installation-services">Maintenance Service</Link></li>
                                     </ul>
                                     <button className={isActive.key == 3 ? "expanded open" : ""} onClick={() => handleToggle(3)}><span className="fa fa-angle-right" /></button>
                                 </li>

@@ -106,21 +106,9 @@ export default function Home() {
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                     <li>
-                                        <Link href="commercial-services">Commercial services<span
+                                        <Link href="electrical-installation-services">Electrical Installation Services<span
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
-                                    {/* <li>
-                                        <Link href="installing-ceiling-fan">installing a ceiling fan<span
-                                                className="icon-arrow-right"></span></Link>
-                                    </li>
-                                    <li>
-                                        <Link href="electrical-products-sales">Lighting & Fixtures<span
-                                                className="icon-arrow-right"></span></Link>
-                                    </li>
-                                    <li>
-                                        <Link href="maintenance-service">Maintenance Service<span
-                                                className="icon-arrow-right"></span></Link>
-                                    </li> */}
                                 </ul>
                             </div>
                             <div className="project-details__get-started">

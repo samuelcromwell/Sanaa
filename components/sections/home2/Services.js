@@ -80,12 +80,12 @@ export default function Services() {
                                 <div className="service-three__icon">
                                     <span className="icon-ac"></span>
                                 </div>
-                                <h3 className="service-three__title"><Link href="maintenance-service">Dust Cleaning</Link>
+                                <h3 className="service-three__title"><Link href="electrical-installation-services">Dust Cleaning</Link>
                                 </h3>
                                 <p className="service-three__text">Velit esse quam nihil molestiae consequatur, vel dolorem
                                     eum fugiat quo voluptas nulla pariatur. She says doloire ipsum quail dolor</p>
                                 <div className="service-three__read-more">
-                                    <Link href="maintenance-service">Read More<span
+                                    <Link href="electrical-installation-services">Read More<span
                                             className="icon-arrow-right"></span></Link>
                                 </div>
                             </div>

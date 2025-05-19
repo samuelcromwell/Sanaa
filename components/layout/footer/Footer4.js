@@ -53,8 +53,8 @@ export default function Footer4() {
                                 <ul className="footer-widget__link list-unstyled">
                                     <li><Link href="electric-maintenance-repairs ">Electric Repair</Link></li>
                                     <li><Link href="electrical-products-sales">Lighting & Fixture</Link></li>
-                                    <li><Link href="maintenance-service">European Lard Sration</Link></li>
-                                    <li><Link href="maintenance-service">Electric Maintenance</Link></li>
+                                    <li><Link href="electrical-installation-services">European Lard Sration</Link></li>
+                                    <li><Link href="electrical-installation-services">Electric Maintenance</Link></li>
                                     <li><Link href="installing-ceiling-fan">Colling Service</Link></li>
                                 </ul>
                             </div>

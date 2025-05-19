@@ -60,12 +60,12 @@ export default function Home() {
                                 <span className="icon-ceiling-lamp-2"></span>
                             </div>
                             {/* <p className="services-two__sub-title">Service Type 3</p> */}
-                            <h3 className="services-two__title"><Link href="maintenance-service"> Electrical Installation Services </Link>
+                            <h3 className="services-two__title"><Link href="electrical-installation-services"> Electrical Installation Servicess </Link>
                             </h3>
                             <p className="services-two__text">Our team of skilled electricians provides professional installation services for homes, offices, hotels, and industries. 
                                 We ensure safe, efficient, and code-compliant electrical work.
                             </p>
-                            <Link href="maintenance-service" className="services-two__learn-more">Learn More<span
+                            <Link href="electrical-installation-services" className="services-two__learn-more">Learn More<span
                                     className="icon-arrow-right"></span></Link>
                         </div>
                     </div>

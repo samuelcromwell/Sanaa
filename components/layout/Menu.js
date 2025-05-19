@@ -52,7 +52,7 @@ export default function Menu() {
                         </li>
                         <li><Link href="installing-ceiling-fan">Installing A Ceiling Fan</Link>
                         </li>
-                        <li><Link href="maintenance-service">Maintenance Service</Link></li>
+                        <li><Link href="electrical-installation-services">Maintenance Service</Link></li>
                     </ul>
                 </li>
                 {/* <li className="dropdown">
