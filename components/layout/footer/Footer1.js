@@ -51,7 +51,7 @@ export default function Footer1() {
                                 </div>
                                 <ul className="footer-widget__link list-unstyled">
                                     <li><Link href="electric-maintenance-repairs ">Electric Maintenance & Repairs</Link></li>
-                                    <li><Link href="lighting-fixtures">Electrical Products Sales</Link></li>
+                                    <li><Link href="electrical-products-sales">Electrical Products Sales</Link></li>
                                     <li><Link href="maintenance-service">Electrical Installation Services</Link></li>
                                     {/* <li><Link href="maintenance-service">Electric Maintenance</Link></li> */}
                                     <li><Link href="installing-ceiling-fan">Colling Service</Link></li>

@@ -42,12 +42,12 @@ export default function Servicetwo() {
                                 <span className="icon-ceiling-lamp"></span>
                             </div>
                             {/* <p className="services-two__sub-title">Service Type 2</p> */}
-                            <h3 className="services-two__title"><Link href="lighting-fixtures">Electrical Products Sales</Link>
+                            <h3 className="services-two__title"><Link href="electrical-products-sales">Electrical Products Sales</Link>
                             </h3>
                             <p className="services-two__text">We supply a wide variety of high-quality electrical parts and accessories for homes, businesses, and industries. Our
                                  products are sourced from trusted brands to ensure durability, safety, and efficiency.
                             </p>
-                            <Link href="lighting-fixtures" className="services-two__learn-more">Learn More<span
+                            <Link href="electrical-products-sales" className="services-two__learn-more">Learn More<span
                                     className="icon-arrow-right"></span></Link>
                         </div>
                     </div>

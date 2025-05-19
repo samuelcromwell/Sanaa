@@ -5,7 +5,7 @@ export default function Home() {
 
     return (
         <>
-        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="Electrical Maintenance & Repairs">
+        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="Electrical Repairs" breadcrumbImage="/assets/images/resources/electrical-maintenance.png">
         {/*Service Details Start*/}
         <section className="service-details">
             <div className="container">
@@ -13,7 +13,7 @@ export default function Home() {
                     <div className="col-xl-8 col-lg-7">
                         <div className="service-details__left">
                             <div className="service-details__img">
-                                <img src="assets/images/services/repair.png" alt=""/>
+                                <img src="assets/images/services/repairs.png" alt=""/>
                             </div>
                             <h3 className="service-details__title-1">Electrical Maintenance & Repairs</h3>
                             <p className="service-details__text-1">
@@ -102,7 +102,7 @@ export default function Home() {
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                     <li>
-                                        <Link href="short-circuit-repair">Short circuit repair<span
+                                        <Link href="electrical-products-sales">Electrical Products Sales<span
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                     <li>
@@ -114,7 +114,7 @@ export default function Home() {
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                     <li>
-                                        <Link href="lighting-fixtures">Lighting & Fixtures<span
+                                        <Link href="electrical-products-sales">Lighting & Fixtures<span
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                     <li>

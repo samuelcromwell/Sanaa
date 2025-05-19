@@ -125,7 +125,7 @@ export default function Home() {
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                     <li>
-                                        <Link href="lighting-fixtures">Lighting & Fixtures<span
+                                        <Link href="electrical-products-sales">Lighting & Fixtures<span
                                                 className="icon-arrow-right"></span></Link>
                                     </li>
                                     <li className="active">
