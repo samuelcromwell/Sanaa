@@ -12,10 +12,10 @@ const swiperOptions = {
     modules: [Autoplay, Pagination, Navigation],
     slidesPerView: 2,
     spaceBetween: 30,
-    // autoplay: {
-    //     delay: 2500,
-    //     disableOnInteraction: false,
-    // },
+    autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+    },
     loop: true,
 
     // Navigation
@@ -89,7 +89,7 @@ export default function Home() {
                                 <div className="col-xl-6">
                                     <div className="about-one__img-box-1">
                                         <div className="about-one__img-1">
-                                            <img src="assets/images/resources/about-one-img-1.jpg" alt=""/>
+                                            <img src="assets/images/resources/repair.png" alt=""/>
                                         </div>
                                     </div>
                                 </div>
@@ -102,7 +102,7 @@ export default function Home() {
                                     </div>
                                     <div className="about-one__img-box-2">
                                         <div className="about-one__img-2">
-                                            <img src="assets/images/resources/about-one-img-2.jpg" alt=""/>
+                                            <img src="assets/images/resources/solder.png" alt=""/>
                                         </div>
                                     </div>
                                 </div>
@@ -141,15 +141,13 @@ export default function Home() {
                     <div className="item">
                         <div className="testimonial-one__single">
                             <div className="testimonial-one__img">
-                                <img src="assets/images/testimonial/testimonial-1-1.jpg" alt=""/>
+                                <img src="assets/images/testimonial/Fatma.png" alt=""/>
                             </div>
                             <div className="testimonial-one__content">
                                 <div className="testimonial-one__quote">
                                     <span className="icon-quote"></span>
                                 </div>
-                                <p className="testimonial-one__text">“Adipiscing elit, sed do eiusmod tempor incididunt ut
-                                    labored etos dolore magna aliquant. Ut enim ad minim veniam nostrud exercitation
-                                    ullamco laboris nisi ut aliquip</p>
+                                <p className="testimonial-one__text">“I received excellent service and top-quality products. It’s not easy to find trustworthy electrical suppliers in Mombasa, but this team exceeded my expectations!”</p>
                                 <div className="testimonial-one__ratting">
                                     <span className="fas fa-star"></span>
                                     <span className="fas fa-star"></span>
@@ -158,8 +156,8 @@ export default function Home() {
                                     <span className="fas fa-star"></span>
                                 </div>
                                 <div className="testimonial-one__client-info">
-                                    <h3><Link href="testimonials">Arlene McCoy</Link></h3>
-                                    <p>Co-founder</p>
+                                    <h3><Link href="testimonials">Fatma Mwinyi</Link></h3>
+                                    <p>Small Business Owner, Mombasa</p>
                                 </div>
                             </div>
                         </div>
@@ -171,15 +169,13 @@ export default function Home() {
                     <div className="item">
                         <div className="testimonial-one__single">
                             <div className="testimonial-one__img">
-                                <img src="assets/images/testimonial/testimonial-1-2.jpg" alt=""/>
+                                <img src="assets/images/testimonial/Hassan.png" alt=""/>
                             </div>
                             <div className="testimonial-one__content">
                                 <div className="testimonial-one__quote">
                                     <span className="icon-quote"></span>
                                 </div>
-                                <p className="testimonial-one__text">“Adipiscing elit, sed do eiusmod tempor incididunt ut
-                                    labored etos dolore magna aliquant. Ut enim ad minim veniam nostrud exercitation
-                                    ullamco laboris nisi ut aliquip</p>
+                                <p className="testimonial-one__text">“As a hotel manager in Nyali, I appreciate efficiency and reliability. These guys delivered promptly and offered the best prices in town.”</p>
                                 <div className="testimonial-one__ratting">
                                     <span className="fas fa-star"></span>
                                     <span className="fas fa-star"></span>
@@ -188,8 +184,8 @@ export default function Home() {
                                     <span className="fas fa-star"></span>
                                 </div>
                                 <div className="testimonial-one__client-info">
-                                    <h3><Link href="testimonials">Wade Warrent</Link></h3>
-                                    <p>Manager</p>
+                                    <h3><Link href="testimonials">Juma Hassan</Link></h3>
+                                    <p>Hotel Manager, Nyali</p>
                                 </div>
                             </div>
                         </div>
@@ -201,15 +197,13 @@ export default function Home() {
                     <div className="item">
                         <div className="testimonial-one__single">
                             <div className="testimonial-one__img">
-                                <img src="assets/images/testimonial/testimonial-1-1.jpg" alt=""/>
+                                <img src="assets/images/testimonial/Aisha.png" alt=""/>
                             </div>
                             <div className="testimonial-one__content">
                                 <div className="testimonial-one__quote">
                                     <span className="icon-quote"></span>
                                 </div>
-                                <p className="testimonial-one__text">“Adipiscing elit, sed do eiusmod tempor incididunt ut
-                                    labored etos dolore magna aliquant. Ut enim ad minim veniam nostrud exercitation
-                                    ullamco laboris nisi ut aliquip</p>
+                                <p className="testimonial-one__text">“Their customer support is top-notch. I had an urgent order for an event, and they sorted it out in under 24 hours. Highly recommend for anyone in Coast region.”</p>
                                 <div className="testimonial-one__ratting">
                                     <span className="fas fa-star"></span>
                                     <span className="fas fa-star"></span>
@@ -218,8 +212,8 @@ export default function Home() {
                                     <span className="fas fa-star"></span>
                                 </div>
                                 <div className="testimonial-one__client-info">
-                                    <h3><Link href="testimonials">Arlene McCoy</Link></h3>
-                                    <p>Co-founder</p>
+                                    <h3><Link href="testimonials">Aisha Abdalla</Link></h3>
+                                    <p>Event Planner, Mombasa CBD</p>
                                 </div>
                             </div>
                         </div>
@@ -231,15 +225,13 @@ export default function Home() {
                     <div className="item">
                         <div className="testimonial-one__single">
                             <div className="testimonial-one__img">
-                                <img src="assets/images/testimonial/testimonial-1-2.jpg" alt=""/>
+                                <img src="assets/images/testimonial/Mohammed.png" alt=""/>
                             </div>
                             <div className="testimonial-one__content">
                                 <div className="testimonial-one__quote">
                                     <span className="icon-quote"></span>
                                 </div>
-                                <p className="testimonial-one__text">“Adipiscing elit, sed do eiusmod tempor incididunt ut
-                                    labored etos dolore magna aliquant. Ut enim ad minim veniam nostrud exercitation
-                                    ullamco laboris nisi ut aliquip</p>
+                                <p className="testimonial-one__text">“Great experience overall. I love supporting local businesses and this one truly delivers on quality and service in Mombasa.”</p>
                                 <div className="testimonial-one__ratting">
                                     <span className="fas fa-star"></span>
                                     <span className="fas fa-star"></span>
@@ -248,8 +240,8 @@ export default function Home() {
                                     <span className="fas fa-star"></span>
                                 </div>
                                 <div className="testimonial-one__client-info">
-                                    <h3><Link href="testimonials">Wade Warrent</Link></h3>
-                                    <p>Manager</p>
+                                    <h3><Link href="testimonials">Mohammed Noor</Link></h3>
+                                    <p>Tech Store Owner, Likoni</p>
                                 </div>
                             </div>
                         </div>
@@ -260,6 +252,7 @@ export default function Home() {
             </div>
         </section>
         {/*Testimonial One End */}
+
 
         {/*Brand One Start*/}
         <section className="brand-one">

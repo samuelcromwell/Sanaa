@@ -61,7 +61,7 @@ export default function AwardSlider1() {
                 {/*Brand One Single*/}
                 <div className="brand-one__single">
                     <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-1.png" alt=""/>
+                        <img src="assets/images/brand/bosch.png" alt=""/>
                     </div>
                 </div>
                 {/*Brand One Single*/}
@@ -69,7 +69,7 @@ export default function AwardSlider1() {
                 <SwiperSlide>
                 <div className="brand-one__single">
                     <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-2.png" alt=""/>
+                        <img src="assets/images/brand/philips.png" alt=""/>
                     </div>
                 </div>
                 {/*Brand One Single*/}
@@ -77,7 +77,7 @@ export default function AwardSlider1() {
                 <SwiperSlide>
                 <div className="brand-one__single">
                     <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-3.png" alt=""/>
+                        <img src="assets/images/brand/havells.png" alt=""/>
                     </div>
                 </div>
                 {/*Brand One Single*/}
@@ -85,7 +85,7 @@ export default function AwardSlider1() {
                 <SwiperSlide>
                 <div className="brand-one__single">
                     <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-4.png" alt=""/>
+                        <img src="assets/images/brand/davis.png" alt=""/>
                     </div>
                 </div>
                 {/*Brand One Single*/}
@@ -93,7 +93,7 @@ export default function AwardSlider1() {
                 <SwiperSlide>
                 <div className="brand-one__single">
                     <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-5.png" alt=""/>
+                        <img src="assets/images/brand/siemens.png" alt=""/>
                     </div>
                 </div>
                 </SwiperSlide>
@@ -101,7 +101,7 @@ export default function AwardSlider1() {
                 {/*Brand One Single*/}
                 <div className="brand-one__single">
                     <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-1.png" alt=""/>
+                        <img src="assets/images/brand/chint.png" alt=""/>
                     </div>
                 </div>
                 {/*Brand One Single*/}
@@ -109,7 +109,7 @@ export default function AwardSlider1() {
                 <SwiperSlide>
                 <div className="brand-one__single">
                     <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-2.png" alt=""/>
+                        <img src="assets/images/brand/osram.png" alt=""/>
                     </div>
                 </div>
                 {/*Brand One Single*/}
@@ -117,25 +117,10 @@ export default function AwardSlider1() {
                 <SwiperSlide>
                 <div className="brand-one__single">
                     <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-3.png" alt=""/>
+                        <img src="assets/images/brand/hager.png" alt=""/>
                     </div>
                 </div>
                 {/*Brand One Single*/}
-                </SwiperSlide>
-                <SwiperSlide>
-                <div className="brand-one__single">
-                    <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-4.png" alt=""/>
-                    </div>
-                </div>
-                {/*Brand One Single*/}
-                </SwiperSlide>
-                <SwiperSlide>
-                <div className="brand-one__single">
-                    <div className="brand-one__img">
-                        <img src="assets/images/brand/brand-1-5.png" alt=""/>
-                    </div>
-                </div>
                 </SwiperSlide>
             </Swiper>
 
