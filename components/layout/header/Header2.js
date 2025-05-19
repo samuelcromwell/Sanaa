@@ -52,10 +52,10 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu }) {
                         </div>
                         <div className="main-menu__right">
                             <div className="main-menu__search-and-btn-box">
-                                <div className="main-menu__search-box">
+                                {/* <div className="main-menu__search-box">
                                     <Link href="#"
                                         className="main-menu__search search-toggler icon-search-interface-symbol"  onClick={handlePopup}></Link>
-                                </div>
+                                </div> */}
                                 <div className="main-menu__btn-box">
                                     <Link href="contact" className="main-menu__btn thm-btn">Get a quote</Link>
                                 </div>
