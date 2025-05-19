@@ -41,9 +41,8 @@ export default function Menu() {
                     </ul>
                 </li> */}
                 <li className="dropdown">
-                    <Link href="#">Services</Link>
+                    <Link href="services">Services</Link>
                     <ul>
-                        <li><Link href="services">Services</Link></li>
                         <li><Link href="electric-maintenance-repairs ">Electric Maintenance & Repairs</Link></li>
                         <li><Link href="short-circuit-repair">Short Circuit Repair</Link>
                         </li>

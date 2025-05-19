@@ -9,9 +9,9 @@ export default function Breadcrumb({ breadcrumbTitle, breadcrumbImage }) {
                 </div>
                 <div className="container">
                     <div className="page-header__inner">
-                        <div className="page-header__img-1">
+                        {/* <div className="page-header__img-1">
                             <img src={breadcrumbImage} alt={breadcrumbTitle} />
-                        </div>
+                        </div> */}
                         <h3>{breadcrumbTitle}</h3>
                         <div className="thm-breadcrumb__inner">
                             <ul className="thm-breadcrumb list-unstyled">

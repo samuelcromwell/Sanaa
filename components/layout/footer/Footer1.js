@@ -47,13 +47,13 @@ export default function Footer1() {
                         <div className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                             <div className="footer-widget__column footer-widget__services">
                                 <div className="footer-widget__title-box">
-                                    <h3 className="footer-widget__title">Our Service</h3>
+                                    <h3 className="footer-widget__title">Our Services</h3>
                                 </div>
                                 <ul className="footer-widget__link list-unstyled">
-                                    <li><Link href="electric-maintenance-repairs ">Electric Repair</Link></li>
-                                    <li><Link href="lighting-fixtures">Lighting & Fixture</Link></li>
-                                    <li><Link href="maintenance-service">European Lard Sration</Link></li>
-                                    <li><Link href="maintenance-service">Electric Maintenance</Link></li>
+                                    <li><Link href="electric-maintenance-repairs ">Electric Maintenance & Repairs</Link></li>
+                                    <li><Link href="lighting-fixtures">Electrical Products Sales</Link></li>
+                                    <li><Link href="maintenance-service">Electrical Installation Services</Link></li>
+                                    {/* <li><Link href="maintenance-service">Electric Maintenance</Link></li> */}
                                     <li><Link href="installing-ceiling-fan">Colling Service</Link></li>
                                 </ul>
                             </div>
