@@ -460,9 +460,9 @@ export default function Home() {
                         <div className="project-one__single">
                             <div className="project-one__img-box">
                                 <div className="project-one__img">
-                                    <img src="assets/images/project/project-1-4.jpg" alt=""/>
+                                    <img src="assets/images/project/project-1-4.png" alt=""/>
                                     <div className="project-one__arrow">
-                                        <Link href="assets/images/project/project-1-4.jpg" className="img-popup"><span
+                                        <Link href="assets/images/project/project-1-4.png" className="img-popup"><span
                                                 className="icon-arrow-right"></span></Link>
                                     </div>
                                 </div>
@@ -480,9 +480,9 @@ export default function Home() {
                         <div className="project-one__single">
                             <div className="project-one__img-box">
                                 <div className="project-one__img">
-                                    <img src="assets/images/project/project-1-5.jpg" alt=""/>
+                                    <img src="assets/images/project/project-1-5.png" alt=""/>
                                     <div className="project-one__arrow">
-                                        <Link href="assets/images/project/project-1-5.jpg" className="img-popup"><span
+                                        <Link href="assets/images/project/project-1-5.png" className="img-popup"><span
                                                 className="icon-arrow-right"></span></Link>
                                     </div>
                                 </div>

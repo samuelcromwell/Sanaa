@@ -92,6 +92,16 @@ export default function Footer1() {
                             <li><Link href="about">Terms and Conditions</Link></li>
                             <li><Link href="about">Privacy and Policy</Link></li>
                         </ul> */}
+                        <p className="site-footer__bottom-text">
+                            Website developed by{' '}
+                            <a
+                                href="https://cromwell-portfolio.netlify.app/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Cromwell
+                            </a>
+                        </p>
                     </div>
                 </div>
             </div>
