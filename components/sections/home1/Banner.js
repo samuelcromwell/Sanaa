@@ -17,11 +17,7 @@ const swiperOptions = {
     autoplay: {
         delay: 4000,
         disableOnInteraction: false,
-    },
-    pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-    },
+    }
 }
 
 export default function Banner() {
@@ -132,8 +128,7 @@ export default function Banner() {
                         </div>
                     </SwiperSlide>
 
-                    {/* Pagination Dots */}
-                    <div className="swiper-pagination"></div>
+                    
                 </Swiper>
             </section>
             {/* Main Slider End */}
