@@ -18,7 +18,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="project-one__btn-box">
-                        <Link href="#" className="project-one__btn thm-btn">all Gallery</Link>
+                        <Link href="projects" className="project-one__btn thm-btn">all Gallery</Link>
                     </div>
                 </div>
                 <div className="row">
@@ -35,8 +35,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
-                                            outdoor</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">snake light installation in a living room</Link></h3>
                                 </div>
                             </div>
                         </div>
@@ -55,8 +54,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
-                                            outdoor</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">Snake lights and spotlights installed</Link></h3>
                                 </div>
                             </div>
                         </div>
@@ -75,8 +73,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
-                                            outdoor</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">Gypsum roof and snake lights</Link></h3>
                                 </div>
                             </div>
                         </div>
@@ -95,8 +92,8 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
-                                            outdoor</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">Wiring, Switch and Socket Installation in Bamburi
+                                            </Link></h3>
                                 </div>
                             </div>
                         </div>
@@ -115,8 +112,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
-                                            outdoor</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">Electrical installation on a construction site in Nyali</Link></h3>
                                 </div>
                             </div>
                         </div>
@@ -135,8 +131,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
-                                            outdoor</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">Gypsum roof and light installation</Link></h3>
                                 </div>
                             </div>
                         </div>
