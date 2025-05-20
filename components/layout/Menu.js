@@ -44,15 +44,8 @@ export default function Menu() {
                     <Link href="services">Services</Link>
                     <ul>
                         <li><Link href="electric-maintenance-repairs ">Electric Maintenance & Repairs</Link></li>
-                        <li><Link href="electrical-products-sales">Electrical Products Sales</Link>
-                        </li>
-                        <li><Link href="short-circuit-repair">Short Circuit Repair</Link>
-                        </li>
-                        <li><Link href="commercial-services">Commercial Services</Link>
-                        </li>
-                        <li><Link href="installing-ceiling-fan">Installing A Ceiling Fan</Link>
-                        </li>
-                        <li><Link href="electrical-installation-services">Maintenance Service</Link></li>
+                        <li><Link href="electrical-products-sales">Electrical Products Sales</Link></li>
+                        <li><Link href="electrical-installation-services">Electrical Installation Services</Link></li>
                     </ul>
                 </li>
                 {/* <li className="dropdown">
