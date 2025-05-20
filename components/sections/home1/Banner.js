@@ -120,11 +120,6 @@ export default function Banner() {
             </Swiper>
         </section>
         {/*Main Sllider End */}
-
-    
-
-
-        
         </>
     )
 }
