@@ -59,14 +59,14 @@ export default function Menu() {
                         <li><Link href="account">My Account</Link></li>
                     </ul>
                 </li> */}
-                <li className="dropdown">
+                {/* <li className="dropdown">
                     <Link href="#">Blog</Link>
                     <ul>
                         <li><Link href="blog">Blog</Link></li>
                         <li><Link href="blog-list">Blog List</Link></li>
                         <li><Link href="blog-details">Blog Details</Link></li>
                     </ul>
-                </li>
+                </li> */}
                 <li>
                     <Link href="contact">Contact</Link>
                 </li>

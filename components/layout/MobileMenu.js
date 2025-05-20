@@ -24,99 +24,73 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
       });
     }
   };
-    return (
-        <>
-            <div className="mobile-nav__wrapper">
-                <div className="mobile-nav__overlay mobile-nav__toggler" onClick={handleMobileMenu} ></div>
-                <div className="mobile-nav__content">
-                    <span className="mobile-nav__close mobile-nav__toggler" onClick={handleMobileMenu} ><i className="fa fa-times"></i></span>
 
-                    <div className="logo-box">
-                        <Link href="/" aria-label="logo image"><img src="assets/images/resources/logo-1.png" width="150" alt="" /></Link>
-                    </div>
+  return (
+    <>
+      <div className="mobile-nav__wrapper">
+        <div className="mobile-nav__overlay mobile-nav__toggler" onClick={handleMobileMenu}></div>
+        <div className="mobile-nav__content">
+          <span className="mobile-nav__close mobile-nav__toggler" onClick={handleMobileMenu}>
+            <i className="fa fa-times"></i>
+          </span>
 
-                    <div className="mobile-nav__container">
-                        <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
-                            <ul className="main-menu__list">
-                                <li><Link href="/">Home</Link>
-                                </li>
-                                <li><Link href="/about/">About</Link></li>
-                                {/* <li className={isActive.key == 2 ? "dropdown current" : "dropdown"}><Link href="/#">Pages</Link>
-                                    <ul style={{ display: `${isActive.key == 2 ? "block" : "none"}` }}>                                 
-                                        <li><Link href="team">Team</Link></li>
-                                        <li><Link href="team-details">Team Details</Link></li>
-                                        <li><Link href="projects">Projects</Link></li>
-                                        <li><Link href="project-details">Project Details</Link></li>
-                                        <li><Link href="testimonials">Testimonials</Link></li>
-                                        <li><Link href="pricing">Pricing</Link></li>
-                                        <li><Link href="faq">Faq</Link></li>
-                                        <li><Link href="404">404 Error</Link></li>
-                                    </ul>
-                                    <button className={isActive.key == 2 ? "expanded open" : ""} onClick={() => handleToggle(2)}><span className="fa fa-angle-right" /></button>
-                                </li> */}
-                                <li className={isActive.key == 3 ? "dropdown current" : "dropdown"}><Link href="/#">Services</Link>
-                                    <ul style={{ display: `${isActive.key == 3 ? "block" : "none"}` }}>                                 
-                                        <li><Link href="services">Services</Link></li>
-                                        <li><Link href="electric-maintenance-repairs ">Electric Maintenance & Repairs</Link></li>
-                                        <li><Link href="electrical-products-sales">Electrical Products Sales</Link>
-                                        </li>
-                                        <li><Link href="short-circuit-repair">Short Circuit Repair</Link>
-                                        </li>
-                                        <li><Link href="commercial-services">Commercial Services</Link>
-                                        </li>
-                                        <li><Link href="installing-ceiling-fan">Installing A Ceiling Fan</Link>
-                                        </li>
-                                        <li><Link href="electrical-installation-services">Maintenance Service</Link></li>
-                                    </ul>
-                                    <button className={isActive.key == 3 ? "expanded open" : ""} onClick={() => handleToggle(3)}><span className="fa fa-angle-right" /></button>
-                                </li>
-                                <li className={isActive.key == 4 ? "dropdown current" : "dropdown"}><Link href="/#">Shop</Link>
-                                    <ul style={{ display: `${isActive.key == 4 ? "block" : "none"}` }}>                                 
-                                        <li><Link href="shop">Products</Link></li>
-                                        <li><Link href="shop-details">Products Details</Link></li>
-                                        <li><Link href="cart">Cart</Link></li>
-                                        <li><Link href="checkout">Checkout</Link></li>
-                                        <li><Link href="wishlist">Wishlist</Link></li>
-                                        <li><Link href="account">My Account</Link></li>
-                                    </ul>
-                                    <button className={isActive.key == 4 ? "expanded open" : ""} onClick={() => handleToggle(4)}><span className="fa fa-angle-right" /></button>
-                                </li>
-                                <li className={isActive.key == 5 ? "dropdown current" : "dropdown"}><Link href="/#">Blog</Link>
-                                    <ul style={{ display: `${isActive.key == 5 ? "block" : "none"}` }}>                                 
-                                        <li><Link href="blog">Blog</Link></li>
-                                        <li><Link href="blog-list">Blog List</Link></li>
-                                        <li><Link href="blog-details">Blog Details</Link></li>
-                                    </ul>
-                                    <button className={isActive.key == 5 ? "expanded open" : ""} onClick={() => handleToggle(5)}><span className="fa fa-angle-right" /></button>
-                                </li>
-                                <li><Link href="/contact">Contact</Link></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <ul className="mobile-nav__contact list-unstyled">
-                        <li>
-                            <i className="fa fa-envelope"></i>
-                            <Link href="mailto:sanaaelectricals3@gmail.com">sanaaelectricals3@gmail.com</Link>
-                        </li>
-                        <li>
-                            <i className="fa fa-phone-alt"></i>
-                            <Link href="tel:254717848262">+254 717 848 262</Link>
-                        </li>
-                    </ul>
-                    <div className="mobile-nav__top">
-                        <div className="mobile-nav__social">
-                            <Link href="#" className="fab fa-twitter"></Link>
-                            <Link href="https://www.facebook.com/SanaaElectricals" className="fab fa-facebook-square"></Link>
-                            <Link href="#" className="fab fa-pinterest-p"></Link>
-                            <Link href="#" className="fab fa-instagram"></Link>
-                        </div>
-                    </div>
-                </div>
+          <div className="logo-box">
+            <Link href="/" onClick={handleMobileMenu} aria-label="logo image">
+              <img src="assets/images/resources/logo-1.png" width="150" alt="Sanaa Electricals Logo" />
+            </Link>
+          </div>
+
+          <div className="mobile-nav__container">
+            <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+              <ul className="main-menu__list">
+                <li><Link href="/" onClick={handleMobileMenu}>Home</Link></li>
+                <li><Link href="/about" onClick={handleMobileMenu}>About</Link></li>
+
+                <li className={isActive.key == 3 ? "dropdown current" : "dropdown"}>
+                  <Link href="/services" onClick={handleMobileMenu}>Services</Link>
+                  <ul style={{ display: `${isActive.key == 3 ? "block" : "none"}` }}>
+                    <li><Link href="/services" onClick={handleMobileMenu}>Services</Link></li>
+                    <li><Link href="/electric-maintenance-repairs" onClick={handleMobileMenu}>Electric Maintenance & Repairs</Link></li>
+                    <li><Link href="/electrical-products-sales" onClick={handleMobileMenu}>Electrical Products Sales</Link></li>
+                    <li><Link href="/electrical-installation-services" onClick={handleMobileMenu}>Electrical Installation Services</Link></li>
+                  </ul>
+                  <button className={isActive.key == 3 ? "expanded open" : ""} onClick={() => handleToggle(3)}>
+                    <span className="fa fa-angle-right" />
+                  </button>
+                </li>
+
+                <li><Link href="/contact" onClick={handleMobileMenu}>Contact</Link></li>
+              </ul>
             </div>
+          </div>
 
-          
+          <ul className="mobile-nav__contact list-unstyled">
+            <li>
+              <i className="fa fa-envelope"></i>
+              <Link href="mailto:sanaaelectricals3@gmail.com" onClick={handleMobileMenu}>
+                sanaaelectricals3@gmail.com
+              </Link>
+            </li>
+            <li>
+              <i className="fa fa-phone-alt"></i>
+              <Link href="tel:254717848262" onClick={handleMobileMenu}>
+                +254 717 848 262
+              </Link>
+            </li>
+          </ul>
 
-        </>
-    )
-}
+          <div className="mobile-nav__top">
+            <div className="mobile-nav__social">
+              <Link href="#" onClick={handleMobileMenu} className="fab fa-twitter"></Link>
+              <Link href="https://www.facebook.com/SanaaElectricals" onClick={handleMobileMenu} className="fab fa-facebook-square"></Link>
+              <Link href="#" onClick={handleMobileMenu} className="fab fa-pinterest-p"></Link>
+              <Link href="#" onClick={handleMobileMenu} className="fab fa-instagram"></Link>
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
+
 export default MobileMenu;
