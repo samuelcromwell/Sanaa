@@ -32,7 +32,7 @@ export default function Project() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">snake light installation in a living room</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">snake light installation in a living room</Link></h3>
                                 </div>
                             </div>
                         </div>
@@ -51,7 +51,7 @@ export default function Project() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">Snake lights and spotlights installed</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">Snake lights and spotlights installed</Link></h3>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +70,7 @@ export default function Project() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">Gypsum roof and snake lights</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">Gypsum roof and snake lights</Link></h3>
                                 </div>
                             </div>
                         </div>
@@ -89,7 +89,7 @@ export default function Project() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">Wiring, Switch and Socket Installation in Bamburi
+                                    <h3 className="project-one__title"><Link href="##">Wiring, Switch and Socket Installation in Bamburi
                                             </Link></h3>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@ export default function Project() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">Electrical installation on a construction site in Nyali</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">Electrical installation on a construction site in Nyali</Link></h3>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@ export default function Project() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">Gypsum roof and light installation</Link></h3>
+                                    <h3 className="project-one__title"><Link href="##">Gypsum roof and light installation</Link></h3>
                                 </div>
                             </div>
                         </div>

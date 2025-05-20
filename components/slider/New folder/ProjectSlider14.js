@@ -63,7 +63,7 @@ export default function ProjectSlider14() {
                             <div className="view-btn"><Link href="#" className="lightbox-image">+</Link></div>
                             <div className="text">
                                 <p>Business</p>
-                                <h3><Link href="/project-details">Axelborg Towers</Link></h3>
+                                <h3><Link href="/##">Axelborg Towers</Link></h3>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@ export default function ProjectSlider14() {
                             <div className="view-btn"><Link href="#" className="lightbox-image">+</Link></div>
                             <div className="text">
                                 <p>Business</p>
-                                <h3><Link href="/project-details">Axelborg Towers</Link></h3>
+                                <h3><Link href="/##">Axelborg Towers</Link></h3>
                             </div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@ export default function ProjectSlider14() {
                             <div className="view-btn"><Link href="#" className="lightbox-image">+</Link></div>
                             <div className="text">
                                 <p>Business</p>
-                                <h3><Link href="/project-details">Axelborg Towers</Link></h3>
+                                <h3><Link href="/##">Axelborg Towers</Link></h3>
                             </div>
                         </div>
                     </div>
@@ -99,7 +99,7 @@ export default function ProjectSlider14() {
                             <div className="view-btn"><Link href="#" className="lightbox-image">+</Link></div>
                             <div className="text">
                                 <p>Business</p>
-                                <h3><Link href="/project-details">Axelborg Towers</Link></h3>
+                                <h3><Link href="/##">Axelborg Towers</Link></h3>
                             </div>
                         </div>
                     </div>
@@ -111,7 +111,7 @@ export default function ProjectSlider14() {
                             <div className="view-btn"><Link href="#" className="lightbox-image">+</Link></div>
                             <div className="text">
                                 <p>Business</p>
-                                <h3><Link href="/project-details">Axelborg Towers</Link></h3>
+                                <h3><Link href="/##">Axelborg Towers</Link></h3>
                             </div>
                         </div>
                     </div>
@@ -123,7 +123,7 @@ export default function ProjectSlider14() {
                             <div className="view-btn"><Link href="#" className="lightbox-image">+</Link></div>
                             <div className="text">
                                 <p>Business</p>
-                                <h3><Link href="/project-details">Axelborg Towers</Link></h3>
+                                <h3><Link href="/##">Axelborg Towers</Link></h3>
                             </div>
                         </div>
                     </div>
@@ -135,7 +135,7 @@ export default function ProjectSlider14() {
                             <div className="view-btn"><Link href="#" className="lightbox-image">+</Link></div>
                             <div className="text">
                                 <p>Business</p>
-                                <h3><Link href="/project-details">Axelborg Towers</Link></h3>
+                                <h3><Link href="/##">Axelborg Towers</Link></h3>
                             </div>
                         </div>
                     </div>
@@ -147,7 +147,7 @@ export default function ProjectSlider14() {
                             <div className="view-btn"><Link href="#" className="lightbox-image">+</Link></div>
                             <div className="text">
                                 <p>Business</p>
-                                <h3><Link href="/project-details">Axelborg Towers</Link></h3>
+                                <h3><Link href="/##">Axelborg Towers</Link></h3>
                             </div>
                         </div>
                     </div>
@@ -159,7 +159,7 @@ export default function ProjectSlider14() {
                             <div className="view-btn"><Link href="#" className="lightbox-image">+</Link></div>
                             <div className="text">
                                 <p>Business</p>
-                                <h3><Link href="/project-details">Axelborg Towers</Link></h3>
+                                <h3><Link href="/##">Axelborg Towers</Link></h3>
                             </div>
                         </div>
                     </div>

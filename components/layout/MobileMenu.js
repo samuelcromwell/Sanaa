@@ -48,9 +48,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
 
                 <li className={isActive.key == 3 ? "dropdown current" : "dropdown"}>
                   <Link href="/services" onClick={handleMobileMenu}>Services</Link>
-                  <ul style={{ display: `${isActive.key == 3 ? "block" : "none"}` }}>
-                    <li><Link href="/services" onClick={handleMobileMenu}>Services</Link></li>
-                    <li><Link href="/electric-maintenance-repairs" onClick={handleMobileMenu}>Electric Maintenance & Repairs</Link></li>
+                  <ul style={{ display: `${isActive.key == 3 ? "block" : "none"}` }}>                    <li><Link href="/electric-maintenance-repairs" onClick={handleMobileMenu}>Electric Maintenance & Repairs</Link></li>
                     <li><Link href="/electrical-products-sales" onClick={handleMobileMenu}>Electrical Products Sales</Link></li>
                     <li><Link href="/electrical-installation-services" onClick={handleMobileMenu}>Electrical Installation Services</Link></li>
                   </ul>

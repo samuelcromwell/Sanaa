@@ -408,7 +408,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">debris stuck in the
+                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
                             </div>
@@ -428,7 +428,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">debris stuck in the
+                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
                             </div>
@@ -448,7 +448,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">debris stuck in the
+                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
                             </div>
@@ -468,7 +468,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">debris stuck in the
+                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
                             </div>
@@ -488,7 +488,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">debris stuck in the
+                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
                             </div>
@@ -508,7 +508,7 @@ export default function Home() {
                                 </div>
                                 <div className="project-one__content">
                                     <p className="project-one__sub-title">Sanaa Electricals</p>
-                                    <h3 className="project-one__title"><Link href="project-details">debris stuck in the
+                                    <h3 className="project-one__title"><Link href="##">debris stuck in the
                                             outdoor</Link></h3>
                                 </div>
                             </div>
