@@ -14,10 +14,10 @@ const swiperOptions = {
     slidesPerView: 1,
     spaceBetween: 0,
     loop: true,
-    autoplay: {
-        delay: 4000,
-        disableOnInteraction: false,
-    }
+    // autoplay: {
+    //     delay: 4000,
+    //     disableOnInteraction: false,
+    // }
 }
 
 export default function Banner() {
