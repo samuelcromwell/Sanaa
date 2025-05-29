@@ -84,24 +84,33 @@ export default function Footer1() {
             <div className="site-footer__bottom">
                 <div className="container">
                     <div className="site-footer__bottom-inner">
-                        <p className="site-footer__bottom-text">
-                            Copyright {new Date().getFullYear()}. All rights reserved
-                        </p>
-                        {/* <ul className="list-unstyled site-footer__bottom-menu">
-                            <li><Link href="contact">Support</Link></li>
-                            <li><Link href="about">Terms and Conditions</Link></li>
-                            <li><Link href="about">Privacy and Policy</Link></li>
-                        </ul> */}
-                        <p className="site-footer__bottom-text">
-                            Website developed by{' '}
-                            <a
-                                href="https://cromwell-portfolio.netlify.app/"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                Cromwell
-                            </a>
-                        </p>
+                    <p className="site-footer__bottom-text">
+                        Copyright {new Date().getFullYear()}. All rights reserved
+                    </p>
+
+                    <p className="site-footer__bottom-text">
+                        Website developed by{" "}
+                        <a
+                        href="https://cromwell-portfolio.netlify.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >
+                        Cromwell
+                        </a>
+                    </p>
+
+                    <p
+                        className="site-footer__bottom-text"
+                    >
+                        Images by{" "}
+                        <a
+                        href="https://www.freepik.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >
+                        Freepik
+                        </a>
+                    </p>
                     </div>
                 </div>
             </div>
