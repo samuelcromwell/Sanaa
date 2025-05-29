@@ -37,7 +37,7 @@
     right: 583px;
     height: 545px;
     width: 80px;
-    background-color: rgba(var(--erepair-white-rgb), .10);
+    background-color: rgba(51, 122, 159, 0.95); /* Solid blue with 50% transparency */
     clip-path: polygon(0 18%, 100% 0%, 100% 82%, 0% 100%);
     transform: rotate(51deg) translateX(-400px);
     opacity: 0;
@@ -58,7 +58,7 @@
     height: 750px;
     width: 80px;
     /* background-color: rgba(var(--erepair-base-rgb), .50); */
-    background-color: rgba(51, 122, 159, 0.95); /* Solid blue with 50% transparency */
+    background-color: rgba(255, 255, 255, 0.95); /* 95% opaque white */
     clip-path: polygon(0 10%, 100% 0%, 100% 90%, 0% 100%);
     transform: rotate(51deg) translateY(-200px);
     opacity: 0;
@@ -77,7 +77,7 @@
     right: 495px;
     height: 1025px;
     width: 80px;
-    background: linear-gradient(180deg, #FEDB5C 0%, #988337 100%);
+    background: linear-gradient(180deg, rgb(42, 185, 126) 0%, rgb(42, 185, 126) 100%);
     clip-path: polygon(0 10%, 100% 0%, 100% 90%, 0% 100%);
     transform: rotate(52deg) translateX(50px);
     opacity: 0;
