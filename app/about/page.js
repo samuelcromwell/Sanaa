@@ -302,7 +302,7 @@ export default function Home() {
                                 selection.</p>
                             <div className="video-one__btn-box">
                                 <Link href="about" className="video-one__btn thm-btn">Discover More</Link>
-                                <Link href="contact" className="video-one__btn-two thm-btn">Free estimate</Link>
+                                <Link href="contact#quote" className="video-one__btn-two thm-btn">Free estimate</Link>
                             </div>
                         </div>
                     </div>
