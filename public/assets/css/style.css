@@ -50,11 +50,11 @@
   --erepair-gray-rgb: 110, 119, 125;
   --erepair-white: #ffffff;
   --erepair-white-rgb: 255, 255, 255;
-  --erepair-base: #2AB97E;
+  --erepair-base: #0053A0;
   --erepair-base-rgb: 42, 185, 126;
   --erepair-black: #171717;
   --erepair-black-rgb: 23, 23, 23;
-  --erepair-primary: #FEDB5C;
+  --erepair-primary: #F8A117;
   --erepair-primary-rgb: 254, 219, 92;
   --erepair-extra: #F4FBF9;
   --erepair-extra-rgb: 244, 251, 249;
@@ -891,8 +891,8 @@ ul {
   flex-wrap: wrap;
   /* background-color: #20684A; */
   /* background-color: #6699FF; Lighter Blue */ 
-  background-color: rgba(51, 122, 159, 0.95); /* Solid blue with 50% transparency */
-
+  /* background-color: rgba(51, 122, 159, 0.95); Solid blue with 50% transparency */
+  background-color: #0053A0;
   padding: 5px 150px;
 }
 
@@ -934,7 +934,7 @@ ul {
 
 .main-menu__contact-list li .icon i {
   font-size: 18px;
-  color: var(--erepair-base);
+  color: var(--erepair-white);
 }
 
 .main-menu__contact-list li .text {

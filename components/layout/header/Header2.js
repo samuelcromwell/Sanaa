@@ -57,7 +57,7 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu }) {
                                         className="main-menu__search search-toggler icon-search-interface-symbol"  onClick={handlePopup}></Link>
                                 </div> */}
                                 <div className="main-menu__btn-box">
-                                    <Link href="contact" className="main-menu__btn thm-btn">Get a quote</Link>
+                                    <Link href="/contact#quote" className="main-menu__btn thm-btn">Get a quote</Link>
                                 </div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu }) {
                                         className="main-menu__search search-toggler icon-search-interface-symbol" onClick={handlePopup}></Link>
                                 </div> */}
                                 <div className="main-menu__btn-box">
-                                    <Link href="contact" className="main-menu__btn thm-btn">Get a quote</Link>
+                                    <Link href="/contact#quote" className="main-menu__btn thm-btn">Get a quote</Link>
                                 </div>
                             {/* </div> */}
                         </div>

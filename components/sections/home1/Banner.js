@@ -46,7 +46,7 @@ export default function Banner() {
                                 <div className="main-slider__content">
                                     <div className="main-slider__sub-title-box">
                                         <p className="main-slider__sub-title">Electrical Company</p>
-                                        <div className="main-slider__sub-title-shape"></div>
+                                        {/* <div className="main-slider__sub-title-shape"></div> */}
                                     </div>
                                     <h2 className="main-slider__title">Power Up <br /> Your World</h2>
                                     <p className="main-slider__text">

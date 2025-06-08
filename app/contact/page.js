@@ -54,7 +54,7 @@ export default function Home() {
         {/*Contact Two End*/}
 
         {/*Contact Three Start*/}
-        <section className="contact-three">
+        <section id="quote" className="contact-three">
             <div className="container">
                 <div className="contact-three__inner">
                     <div className="row">
