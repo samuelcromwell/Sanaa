@@ -20,7 +20,7 @@ export default function ContactForm() {
       return 'Please enter a valid email address.';
     }
 
-    return null; // Valid
+    return null;
   }
 
   async function handleSubmit(e) {
@@ -38,7 +38,7 @@ export default function ContactForm() {
     }
 
     try {
-      const res = await fetch('/api/contact', {
+      const res = await fetch('/.netlify/functions/contact', {
         method: 'POST',
         body: JSON.stringify({
           name: formData.get('name'),
@@ -53,11 +53,17 @@ export default function ContactForm() {
       });
 
       if (res.ok) {
-        setStatus({ type: 'success', message: 'Message sent successfully! We shall respond shortly' });
+        setStatus({
+          type: 'success',
+          message: 'Message sent successfully! We shall respond shortly.',
+        });
         e.target.reset();
       } else {
         const data = await res.json();
-        setStatus({ type: 'error', message: data.error || 'Something went wrong.' });
+        setStatus({
+          type: 'error',
+          message: data.error || 'Something went wrong.',
+        });
       }
     } catch (err) {
       setStatus({ type: 'error', message: 'Network error. Try again later.' });
