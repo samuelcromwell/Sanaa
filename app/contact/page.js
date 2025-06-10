@@ -54,7 +54,7 @@ export default function Home() {
                 <div className="contact-three__left">
                   <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.3785896969525!2d39.7405043!3d-3.94209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x184009bdaaecd919%3A0xc0267cae00519bcb!2sSanaa%20Electricals!5e0!3m2!1sen!2ske!4v1745321154868!5m2!1sen!2ske"
-                    className="google-map__one"
+                    className="google-map__one"                    
                   ></iframe>
                 </div>
               </div>
@@ -62,15 +62,6 @@ export default function Home() {
                 <div className="contact-three__right">
                   <h3 className="contact-three__form-title">Get A Free Quote</h3>
                   <ContactForm />
-
-                  {/* ✅ Hidden fallback Netlify form for detection */}
-                  <form name="contact" netlify netlify-honeypot="bot-field" hidden>
-                    <input type="text" name="name" />
-                    <input type="email" name="email" />
-                    <input type="tel" name="number" />
-                    <input type="text" name="location" />
-                    <textarea name="message"></textarea>
-                  </form>
                 </div>
               </div>
             </div>
@@ -116,6 +107,5 @@ export default function Home() {
           </div>
         </div>
       </section>
-    </Layout>
-  );
+    </Layout>  );
 }
