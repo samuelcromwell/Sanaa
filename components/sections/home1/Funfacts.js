@@ -32,7 +32,7 @@ export default function Funfacts() {
                                 <CounterUp end={10} />
                                     <span>+</span>
                                 </div>
-                                <p className="counter-one__text">expert team memberss</p>
+                                <p className="counter-one__text">expert team members</p>
                             </div>
                         </div>
                         {/*Counter One Single End*/}
