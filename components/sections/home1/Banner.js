@@ -39,6 +39,12 @@ export default function Banner() {
                             <div className="main-slider__shape-1"></div>
                             <div className="main-slider__shape-2"></div>
                             <div className="main-slider__shape-3"></div>
+
+                            {/* New mobile shapes */}
+                            <div className="main-slider__shape-mobile-1"></div>
+                            <div className="main-slider__shape-mobile-2"></div>
+                            <div className="main-slider__shape-mobile-3"></div>
+
                             <div className="main-slider__img">
                                 {/* <img src="assets/images/resources/main-slider-3.jpeg" alt="" loading="lazy" /> */}
                             </div>
@@ -72,6 +78,12 @@ export default function Banner() {
                             <div className="main-slider__shape-1"></div>
                             <div className="main-slider__shape-2"></div>
                             <div className="main-slider__shape-3"></div>
+
+                            {/* New mobile shapes */}
+                            <div className="main-slider__shape-mobile-1"></div>
+                            <div className="main-slider__shape-mobile-2"></div>
+                            <div className="main-slider__shape-mobile-3"></div>
+
                             <div className="main-slider__img">
                                 {/* <img src="assets/images/resources/main-slider-img-1-2.png" alt="" loading="lazy" /> */}
                             </div>
@@ -105,6 +117,12 @@ export default function Banner() {
                             <div className="main-slider__shape-1"></div>
                             <div className="main-slider__shape-2"></div>
                             <div className="main-slider__shape-3"></div>
+
+                            {/* New mobile shapes */}
+                            <div className="main-slider__shape-mobile-1"></div>
+                            <div className="main-slider__shape-mobile-2"></div>
+                            <div className="main-slider__shape-mobile-3"></div>
+
                             <div className="main-slider__img">
                                 {/* <img src="assets/images/resources/main-slider-img-1-3.png" alt="" loading="lazy" /> */}
                                 {/* main-slider-3 is the image to put */}
@@ -127,8 +145,6 @@ export default function Banner() {
                             </div>
                         </div>
                     </SwiperSlide>
-
-                    
                 </Swiper>
             </section>
             {/* Main Slider End */}
